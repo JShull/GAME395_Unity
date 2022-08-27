@@ -1,3 +1,5 @@
+![Corn Its Got the Juice](./Images/DALLE/CornItHasTheJuice-01.png)
+
 # UNDER CONSTRUCTION
 
 This will go *live* on 08-29-2022 minutes before the class because thats where I'm at right now! :rocket:!
