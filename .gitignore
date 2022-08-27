@@ -1,0 +1,2 @@
+# Blanket ignore for all builds tied to various systems as we need to build these on supported devices - can modify this later as needed
+/[iI]OSBuild/
