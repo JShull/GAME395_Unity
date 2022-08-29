@@ -18,6 +18,7 @@ GAME 395: Designing and Developing with the Unity Engine or as **[Dr. Moberly](h
 * [Canvas](https://canvas.odu.edu/courses/121643)
 * [Google Drive Folder](https://drive.google.com/drive/folders/0AD0oUrNx_iwgUk9PVA)
 * [GitHub Classroom](https://classroom.github.com/classrooms/105563044-game-395_unity_23699_fall_2022)
+* [Video About Me](https://studio.youtube.com/video/F-wHUHyhsLw/edit)
 
 ## Required GitHub Classroom Assignment Links
 
