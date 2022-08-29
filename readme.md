@@ -17,3 +17,17 @@ GAME 395: Designing and Developing with the Unity Engine or as **[Dr. Moberly](h
 * [Canvas](https://canvas.odu.edu/courses/121643)
 * [Google Drive Folder](https://drive.google.com/drive/folders/0AD0oUrNx_iwgUk9PVA)
 * [GitHub Classroom](https://classroom.github.com/classrooms/105563044-game-395_unity_23699_fall_2022)
+
+## Required GitHub Classroom Assignment Links
+
+### Required Low Stake Assignments
+
+* [GitHub Profile Setup](https://classroom.github.com/a/0VKYc6wz): Expected Time 45-90 minutes
+
+### Required Medium Stake Assignments
+
+* [Game Design Document and Unity Learning Plan](https://classroom.github.com/a/YE2nA5je) 
+  * [Unity GDD Document](https://docs.google.com/document/d/15IQfQ7PugD2nLHvzLEx9tlCrE7JR6mDma_yTuxwdmoA/edit?usp=sharing)
+  * [Unity Learning Plan](https://docs.google.com/document/d/1amDJ7yxelEflxOVgX-2aCB7rpZhAYpC6qWFyjI8nSbE/edit?usp=sharing)
+* [GitHub Project Generation & Management](https://classroom.github.com/a/VV3ngciA)
+  * 2022 Unity 3D Project Template is already included, if you wish to use a different version of Unity please replace the folder and set it up with the correct version
