@@ -4,7 +4,7 @@ I believe in using as much open source and/or creative commons free to use conte
 
 ## ProGit
 
-This book is *a lot* of version control information associated with git and I will not be going into this book at all. I put it here for those who want to deep dive and become git magicians. I know you exist and this is for you.
+This book has *a lot* of version control information associated with git and I will not be going into this book at all. I put it here for those who want to deep dive and become git magicians. I know you exist and this is for you.
 
 ## Game Programming Patterns
 

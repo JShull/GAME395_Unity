@@ -12,7 +12,7 @@ GAME 395: Designing and Developing with the Unity Engine or as **[Dr. Moberly](h
 
 ## Quick Links
 
-* [Syllabus]()
+* [Syllabus](./Docs/Syllabus.pdf)
 * [Weekly Exit Ticket](https://forms.gle/cg9z5PgytyDKXeSh9)
 * [Canvas](https://canvas.odu.edu/courses/121643)
 * [Google Drive Folder](https://drive.google.com/drive/folders/0AD0oUrNx_iwgUk9PVA)
@@ -23,6 +23,7 @@ GAME 395: Designing and Developing with the Unity Engine or as **[Dr. Moberly](h
 ### Required Low Stake Assignments
 
 * [GitHub Profile Setup](https://classroom.github.com/a/0VKYc6wz): Expected Time 45-90 minutes
+* [Weekly Exit Tickets](https://forms.gle/cg9z5PgytyDKXeSh9): Expected Time 5-10 minutes
 
 ### Required Medium Stake Assignments
 
