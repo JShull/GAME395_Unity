@@ -2,7 +2,7 @@
 
 # UNDER CONSTRUCTION
 
-This will go *live* on 08-29-2022 minutes before the class because thats where I'm at right now! :rocket:!
+ODU has modified the add/drop date and thus I have more time to make adjustments, this repository will have content added to it weekly through the entire semester, for the purposes of the first week assume it's updating daily... if not hourly :clock:
 
 In the meantime if you have any questions please reach me on [ODU Microsoft Teams](https://teams.microsoft.com/l/chat/0/0?users=jshull@odu.edu) and you can schedule time via my office hours through [ODU's Microsoft Booking](https://outlook.office365.com/owa/calendar/JohnShull1@olddominion.onmicrosoft.com/bookings/) just make sure to select the option for the Game Design Class.
 
@@ -14,6 +14,7 @@ GAME 395: Designing and Developing with the Unity Engine or as **[Dr. Moberly](h
 
 * [Syllabus](./Docs/Syllabus.pdf)
 * [Weekly Exit Ticket](https://forms.gle/cg9z5PgytyDKXeSh9)
+* [Student Questionnaire](https://forms.gle/CcmG7sQD1HrGMGjc7)
 * [Canvas](https://canvas.odu.edu/courses/121643)
 * [Google Drive Folder](https://drive.google.com/drive/folders/0AD0oUrNx_iwgUk9PVA)
 * [GitHub Classroom](https://classroom.github.com/classrooms/105563044-game-395_unity_23699_fall_2022)
@@ -24,6 +25,7 @@ GAME 395: Designing and Developing with the Unity Engine or as **[Dr. Moberly](h
 
 * [GitHub Profile Setup](https://classroom.github.com/a/0VKYc6wz): Expected Time 45-90 minutes
 * [Weekly Exit Tickets](https://forms.gle/cg9z5PgytyDKXeSh9): Expected Time 5-10 minutes
+* [Student Questionnaire](https://forms.gle/CcmG7sQD1HrGMGjc7): Expected time 20-30 minutes
 
 ### Required Medium Stake Assignments
 
