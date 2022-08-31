@@ -22,6 +22,7 @@ GAME 395: Designing and Developing with the Unity Engine or as **[Dr. Moberly](h
 * [Google Drive Folder](https://drive.google.com/drive/folders/0AD0oUrNx_iwgUk9PVA)
 * [GitHub Classroom](https://classroom.github.com/classrooms/105563044-game-395_unity_23699_fall_2022)
 * [Video About Me](https://studio.youtube.com/video/F-wHUHyhsLw/edit)
+* [Office Hours](https://outlook.office365.com/bookwithme/me/meetingtype/d2b30746-d83c-4950-9695-d202f8486054)
 
 ## Required GitHub Classroom Assignment Links
 
