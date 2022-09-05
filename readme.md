@@ -16,6 +16,8 @@ GAME 395: Designing and Developing with the Unity Engine or as **[Dr. Moberly](h
   * [Syllabus Markdown](./Docs/Syllabus.md)
 * [Schedule PDF](./Docs/Schedule.pdf)
   * [Schedule Markdown](./Docs/Schedule.md)
+* [Pulse Check PDF](./Docs/PulseCheck.pdf)
+  * [Pulse Check Markdown](./Docs/PulseCheck.md)
 * [Weekly Exit Ticket](https://forms.gle/cg9z5PgytyDKXeSh9)
 * [Student Questionnaire](https://forms.gle/CcmG7sQD1HrGMGjc7)
 * [Canvas](https://canvas.odu.edu/courses/121643)
