@@ -8,6 +8,7 @@
 </Image>
 
 **P**rogressing **U**pward **L**earning & **S**elf-**E**valuating. This system is based around two progress check-in with ideally a 3rd check-in during the middle of the semester. It's based around a learning cycle that deals with concrete experiences, reflective observation, abstract hypothesis, and active testing <sup>1</sup>.
+<br>
 <Image>
 <a name="Learning_Cycle"></a>
 <img src="Images\learningCycle.png" alt="This is an image taken from the 'Creating Wicked Students' book by Paul Hanstedt" title="Learning Cycle" class="centersml"/>
