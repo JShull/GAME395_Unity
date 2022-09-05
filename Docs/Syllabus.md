@@ -323,10 +323,10 @@ There are **3** required high-stake items that everyone will be doing. They are 
   >* [Particle Systems](https://learn.unity.com/project/getting-started-with-particle-systems)
   >* [Creative Core: Animation](https://learn.unity.com/project/creative-core-animation)
 
-3. Unity Live Learning Presentation
+3. Unity Live Learning or Unity Unite Presentation
   
-  >Register for one [Unity Learning Course from the Unity Learn Live Calendar](https://learn.unity.com/live-calendar)
-  >>Provide a one page write-up or be ready to present a small (less than 5 slides) two minute presentation on how the live learning will contribute towards your project. If you choose the presentation route be ready for some class questions. If you go with the write-up you will have to use [markdown](https://www.markdownguide.org/) or [latex](https://www.latex-project.org/) to right your report in.
+  >Register for one [Unity Learning Course from the Unity Learn Live Calendar](https://learn.unity.com/live-calendar) or you can look into [Unity Unite 2022](https://unity.com/events/unite) (starts November 1) and register for a session.
+  >>Provide a one page write-up or be ready to present a small (less than 5 slides) two minute presentation on how either the live learning or what you learned at a Unity Unity conference will contribute towards your project. If you choose the presentation route be ready for some class questions. If you go with the write-up you will have to use [markdown](https://www.markdownguide.org/) or [latex](https://www.latex-project.org/) to right your report in.
 
 <div style="page-break-after: always;"></div>
 
@@ -339,7 +339,7 @@ There are **3** required high-stake items that everyone will be doing. They are 
 
 ### Grading Agreement Details
 
-In order to be eligible to pass this course with a **'C'** you *must* complete all required stake assignments - I've based these requirements on the expected minimum amount of time spent outside of class. If this is your *goal* I suggest you drop the class. I will be making some changes to these agreements within the first week and they are not initially due to me until the second week.
+In order to be eligible to pass this course with a **'C'** you *must* complete all required stake assignments - I've based these requirements on the expected minimum amount of time spent outside of class. If this is your *goal* I suggest you drop the class. I will be making some changes to these agreements within the first week and they are not initially due to me until the second week. The Grading agreements will be addressed during our one-on-one while using the [Pulse Check Document](./PulseCheck.md).
 
 ***
 
