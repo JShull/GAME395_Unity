@@ -12,6 +12,7 @@ import os
 from PIL import Image
 from dataclasses import dataclass
 import json
+import nvidia_smi
 
 ## To Store the Run Data for if we want to revisit it
 
@@ -45,6 +46,20 @@ def image_grid(imgs,rows,cols):
         grid.paste(img,box=(i%cols*w,i//cols*h))
     return grid
 
+#check if you have a GPU over 10GB
+def BIGGPU():
+    nvidia_smi.nvmlInit()
+    handle = nvidia_smi.nvmlDeviceGetHandleByIndex(0)
+    info = nvidia_smi.nvmlDeviceGetMemoryInfo(handle)
+    #print(info.used)
+    #print(info.total)
+    #print(info.free)
+    #print(info.used/info.total)
+    if(info.free > 1000000000):
+        return True
+    else:
+        return False
+
 ## file Setup Stuff
 dir_path = os.path.dirname(os.path.realpath(__file__))
 image_path = os.path.join(dir_path,"Images")
@@ -53,6 +68,8 @@ device ="cuda"
 
 ## https://huggingface.co/docs/hub/security-tokens
 YOUR_TOKEN = "GET_YOUR_TOKEN_AT_HUGGING_FACE"
+
+TenGB=BIGGPU()
 
 ## Set this to keep me from going overboard feel free to change!
 numImages = int(input("Enter the number of images you want to generate: "))
@@ -85,8 +102,11 @@ print("...Running Stable Diffusion... just a few seconds...")
 # Here's where I drop down to meet the smaller GPU according to the Blog
 #pipe = StableDiffusionPipeline.from_pretrained("CompVis/stable-diffusion-v1-4", use_auth_token=YOUR_TOKEN)
 generatorT = torch.Generator(device).manual_seed(seedNumber)
-pipe = StableDiffusionPipeline.from_pretrained(model_id, torch_dtype=torch.float16, revision="fp16",use_auth_token=YOUR_TOKEN)
-#pipe.safety_checker = lambda images, a:images,False
+if(TenGB):
+    pipe = StableDiffusionPipeline.from_pretrained(model_id,use_auth_token=YOUR_TOKEN)
+else:
+    pipe = StableDiffusionPipeline.from_pretrained(model_id, torch_dtype=torch.float16, revision="fp16",use_auth_token=YOUR_TOKEN)
+
 pipe.to(device)
 
 
