@@ -28,7 +28,7 @@ In our first one-on-one meeting you will spend a couple minutes explaining your 
 >Details...
 
 ***
-**1:** Image recreated from the work by Paul Hanstedt in 'Creating Wicket Students'
+**1:** Image recreated from the work by Paul Hanstedt in '[Creating Wicked Students](https://www.amazon.com/Creating-Wicked-Students-Designing-Courses/dp/1620366975)'
 
 <div style="page-break-after: always;"></div>
 
