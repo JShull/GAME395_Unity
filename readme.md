@@ -23,7 +23,6 @@ GAME 395: Designing and Developing with the Unity Engine or as **[Dr. Moberly](h
 * [Student Questionnaire](https://forms.gle/CcmG7sQD1HrGMGjc7)
 * [Canvas](https://canvas.odu.edu/courses/121643)
 * [Google Drive Folder](https://drive.google.com/drive/folders/0AD0oUrNx_iwgUk9PVA)
-* [GitHub Classroom](https://classroom.github.com/classrooms/105563044-game-395_unity_23699_fall_2022)
 * [Student Music PlayList](https://music.apple.com/us/playlist/game-395-23699/pl.u-xlyNEdNCDpkae)
 * [Video About Me](https://studio.youtube.com/video/F-wHUHyhsLw/edit)
 * [Office Hours](https://outlook.office365.com/bookwithme/me/meetingtype/d2b30746-d83c-4950-9695-d202f8486054)
@@ -38,8 +37,5 @@ GAME 395: Designing and Developing with the Unity Engine or as **[Dr. Moberly](h
 
 ### Required Medium Stake Assignments
 
-* [Game Design Document and Unity Learning Plan](https://classroom.github.com/a/YE2nA5je) 
-  * [Unity GDD Document](https://docs.google.com/document/d/15IQfQ7PugD2nLHvzLEx9tlCrE7JR6mDma_yTuxwdmoA/copy)
-  * [Unity Learning Plan](https://docs.google.com/document/d/1amDJ7yxelEflxOVgX-2aCB7rpZhAYpC6qWFyjI8nSbE/edit?usp=sharing)
-* [GitHub Project Generation & Management](https://classroom.github.com/a/VV3ngciA)
-  * 2022 Unity 3D Project Template is already included, if you wish to use a different version of Unity please replace the folder and set it up with the correct version
+* [Unity GDD Document](https://docs.google.com/document/d/15IQfQ7PugD2nLHvzLEx9tlCrE7JR6mDma_yTuxwdmoA/copy)
+* [Unity Learning Plan](https://docs.google.com/document/d/1amDJ7yxelEflxOVgX-2aCB7rpZhAYpC6qWFyjI8nSbE/edit?usp=sharing)
