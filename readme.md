@@ -12,7 +12,6 @@ GAME 395: Designing and Developing with the Unity Engine or as **[Dr. Moberly](h
 
 ## Quick Links
 
-* [Schedule First One-on-One](https://outlook.office.com/bookwithme/user/a264cdcc1bda4ce4884e4b052b89bdc3@odu.edu/meetingtype/uF-ZIAYQ70CeisWCoCzvLg2?anonymous)
 * [Syllabus PDF](./Docs/Syllabus.pdf)
   * [Syllabus Markdown](./Docs/Syllabus.md)
 * [Schedule PDF](./Docs/Schedule.pdf)
@@ -37,5 +36,6 @@ GAME 395: Designing and Developing with the Unity Engine or as **[Dr. Moberly](h
 
 ### Required Medium Stake Assignments
 
+* [Schedule First One-on-One](https://outlook.office.com/bookwithme/user/a264cdcc1bda4ce4884e4b052b89bdc3@odu.edu/meetingtype/uF-ZIAYQ70CeisWCoCzvLg2?anonymous)
 * [Unity GDD Document](https://docs.google.com/document/d/15IQfQ7PugD2nLHvzLEx9tlCrE7JR6mDma_yTuxwdmoA/copy)
 * [Unity Learning Plan](https://docs.google.com/document/d/1amDJ7yxelEflxOVgX-2aCB7rpZhAYpC6qWFyjI8nSbE/edit?usp=sharing)
