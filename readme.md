@@ -1,10 +1,8 @@
 ![Corn Its Got the Juice](./Images/DALLE/CornItHasTheJuice-01.png)
 
-# UNDER CONSTRUCTION
+# Game 395 Unity3D and Software Development
 
-ODU has modified the add/drop date and thus I have more time to make adjustments, this repository will have content added to it weekly through the entire semester, for the purposes of the first week assume it's updating daily... if not hourly :clock:
-
-In the meantime if you have any questions please reach me on [ODU Microsoft Teams](https://teams.microsoft.com/l/chat/0/0?users=jshull@odu.edu) and you can schedule time via my office hours through [ODU's Microsoft Booking](https://outlook.office.com/bookwithme/user/a264cdcc1bda4ce4884e4b052b89bdc3@odu.edu/meetingtype/uF-ZIAYQ70CeisWCoCzvLg2?anonymous) just make sure to select the option for the Game Design Class.
+If you have any questions please reach me on [ODU Microsoft Teams](https://teams.microsoft.com/l/chat/0/0?users=jshull@odu.edu) and you can schedule time via my office hours through [ODU's Microsoft Booking](https://outlook.office.com/bookwithme/user/a264cdcc1bda4ce4884e4b052b89bdc3@odu.edu/meetingtype/uF-ZIAYQ70CeisWCoCzvLg2?anonymous) just make sure to select the option for the Game Design Class.
 
 ## Course Description
 
