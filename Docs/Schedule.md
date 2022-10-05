@@ -27,11 +27,11 @@ GitHub Desktop Setup, & Version Control Basics
 ## October 3 & 5
 
 UI, [Unity Prefabs](https://learn.unity.com/tutorial/introduction-to-nested-prefabs), [Scriptable Objects](https://learn.unity.com/tutorial/introduction-to-scriptable-objects), and Saving Player Data - Turn in Project Proposals
->10-5: Live Q&A with **Jobye-Kyle Karmaker** *'Lead 3D Artist at System Era Softworks and Environment Art Mentor'*
 
 ## October (No Class) 10 & 12
 
 Fall break: [Unity Raycasts](https://learn.unity.com/tutorial/karting-mod-smart-karts-training-guide) and [Unity Physics](https://learn.unity.com/tutorial/intro-to-the-unity-physics-engine-2019-3) - Project Feedback
+>10-5: Live Q&A with **Jobye-Kyle Karmaker** *'Lead 3D Artist at System Era Softworks and Environment Art Mentor'*
 
 ## October 17 & 19
 
