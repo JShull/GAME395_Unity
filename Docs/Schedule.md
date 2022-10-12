@@ -31,7 +31,7 @@ Hurricane knocked out one class, Wednesday was in class project proposal - Turn 
 ## October (No Class) 10 & 12
 
 Fall break: UI, [Unity Prefabs](https://learn.unity.com/tutorial/introduction-to-nested-prefabs), [Scriptable Objects](https://learn.unity.com/tutorial/introduction-to-scriptable-objects) - Project Feedback
->10-5: Live Q&A with **Jobye-Kyle Karmaker** *'Lead 3D Artist at System Era Softworks and Environment Art Mentor'*
+>10-12: Live Q&A with **Jobye-Kyle Karmaker** *'Lead 3D Artist at System Era Softworks and Environment Art Mentor'*
 
 ## October 17 & 19
 
