@@ -40,11 +40,11 @@ Fall break: UI, [Unity Prefabs](https://learn.unity.com/tutorial/introduction-to
 ## October 24 & 26
 
 >10-24: Live Q&A with **Francois Roughol** *'World Director at Shark Mob a Tencent Studio in Sweden'*
-[Unity Visual Scripting Continues](https://github.com/avashly/unity-visualscripting-samples),[Unity Raycasts](https://learn.unity.com/tutorial/karting-mod-smart-karts-training-guide) and [Unity Physics](https://learn.unity.com/tutorial/intro-to-the-unity-physics-engine-2019-3)
+[Unity Visual Scripting Continues](https://github.com/avashly/unity-visualscripting-samples)
 
 ## October 31 & 2
 
-[Unity Timeline](https://learn.unity.com/tutorial/introduction-to-timeline-2019-3) & in class project time
+[Unity Raycasts](https://learn.unity.com/tutorial/karting-mod-smart-karts-training-guide) and [Unity Physics](https://learn.unity.com/tutorial/intro-to-the-unity-physics-engine-2019-3)
 
 ## November 7 & 9
 
