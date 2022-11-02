@@ -44,11 +44,11 @@ Fall break: UI, [Unity Prefabs](https://learn.unity.com/tutorial/introduction-to
 
 ## October 31 & 2
 
-[Unity Raycasts](https://learn.unity.com/tutorial/karting-mod-smart-karts-training-guide) and [Unity Physics](https://learn.unity.com/tutorial/intro-to-the-unity-physics-engine-2019-3)
+[Unity Raycasts](https://learn.unity.com/tutorial/karting-mod-smart-karts-training-guide), [Unity Physics](https://learn.unity.com/tutorial/intro-to-the-unity-physics-engine-2019-3), & In-class Check-ins!
 
 ## November 7 & 9
 
-[Audio Systems](https://learn.unity.com/project/creative-core-audio) & [Terrain](https://learn.unity.com/project/introduction-to-terrain-editor)
+>11-7: Livq Q&A with **Matt Boone** '*Contractor for Valve, previously at Valve on Day of Defeat, Counter-Strike, Source, Left 4 Dead Series, Dota2, & others*' & [Terrain](https://learn.unity.com/project/introduction-to-terrain-editor)
 
 ## November 14 & 16
 
