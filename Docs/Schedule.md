@@ -48,7 +48,7 @@ Fall break: UI, [Unity Prefabs](https://learn.unity.com/tutorial/introduction-to
 
 ## November 7 & 9
 
->11-7: Livq Q&A with **Matt Boone** '*Contractor for Valve, previously at Valve on Day of Defeat, Counter-Strike, Source, Left 4 Dead Series, Dota2, & others*' & [Terrain](https://learn.unity.com/project/introduction-to-terrain-editor)
+>11-7: Live Q&A with **Matt Boone** '*Contractor for Valve, previously at Valve on Day of Defeat, Counter-Strike, Source, Left 4 Dead Series, Dota2, & others*' & [Terrain](https://learn.unity.com/project/introduction-to-terrain-editor)
 
 ## November 14 & 16
 
