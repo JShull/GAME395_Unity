@@ -48,7 +48,10 @@ Fall break: UI, [Unity Prefabs](https://learn.unity.com/tutorial/introduction-to
 
 ## November 7 & 9
 
->11-7: Live Q&A with **Matt Boone** '*Contractor for Valve, previously at Valve on Day of Defeat, Counter-Strike, Source, Left 4 Dead Series, Dota2, & others*' & [Terrain](https://learn.unity.com/project/introduction-to-terrain-editor)
+>11-7: Live Q&A with **Matt Boone** '*Contractor for Valve, previously at Valve on Day of Defeat, Counter-Strike, Source, Left 4 Dead Series, Dota2, & others*' & [Terrain](https://learn.unity.com/project/introduction-to-terrain-editor) 
+* [Unity Asset Store Terrain Sample Asset Pack](https://assetstore.unity.com/packages/3d/environments/landscapes/terrain-sample-asset-pack-145808)
+* [Unity Asset Store URP Conifers](https://assetstore.unity.com/packages/3d/vegetation/trees/conifers-botd-142076)
+* [Unity Asset Store Low Poly](https://assetstore.unity.com/packages/vfx/shaders/low-poly-wind-182586#description)
 
 ## November 14 & 16
 
