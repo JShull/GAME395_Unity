@@ -75,6 +75,7 @@
 *.udsmesh filter=lfs diff=lfs merge=lfs -text
 # Unity Specific 
 
+*.unitypackage filter=lfs diff=lfs merge=lfs -text
 #UnityWork/XRQuestTrolley/Assets/Windridge[[:space:]]City[[:space:]]Assets/Windridge[[:space:]]City[[:space:]]Demo[[:space:]]Scene/LightingData.asset filter=lfs diff=lfs merge=lfs -text
 
 # Collapse Unity-generated files on GitHub
