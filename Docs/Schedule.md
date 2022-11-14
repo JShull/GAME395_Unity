@@ -55,7 +55,9 @@ Fall break: UI, [Unity Prefabs](https://learn.unity.com/tutorial/introduction-to
 
 ## November 14 & 16
 
-[VFX Systems](https://learn.unity.com/tutorial/september-21-vfx-graph#) & [Particle Systems](https://learn.unity.com/project/creative-core-vfx) and more [Particle Systems](https://learn.unity.com/project/getting-started-with-particle-systems)
+> 11-14 FSM, Raycasters, Controllers, & Terrain
+> 
+> 11-17 [VFX Systems](https://learn.unity.com/tutorial/september-21-vfx-graph#) & [Particle Systems](https://learn.unity.com/project/creative-core-vfx) and more [Particle Systems](https://learn.unity.com/project/getting-started-with-particle-systems)
 
 ## November 21 & (Holiday) 23
 
@@ -63,7 +65,9 @@ Compiling for [WebGL](https://learn.unity.com/tutorial/creating-and-publishing-w
 
 ## November 28 & 30
 
-Chance I'm out this entire week: virtual class via remote Zoom: Scene Management & Deployment
+> Nov 28: Compile / Deploy
+> 
+> Nov 30: Special Motion Capture Day 12-3pm [VMASC](https://www.google.com/maps/place/Old+Dominion+University+Virginia+Modeling,+Analysis,+and+Simulation+Center/@36.8693533,-76.4204967,17z/data=!3m1!4b1!4m5!3m4!1s0x89ba9f9baea2fb65:0x8d6eec4c5bf95e33!8m2!3d36.869349!4d-76.418308)
 
 ## December 5 & 7
 
