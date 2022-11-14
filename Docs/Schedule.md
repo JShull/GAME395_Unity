@@ -55,7 +55,7 @@ Fall break: UI, [Unity Prefabs](https://learn.unity.com/tutorial/introduction-to
 
 ## November 14 & 16
 
-> 11-14 FSM, Raycasters, Controllers, & Terrain
+> 11-14 [FSM](https://github.com/jshull/FP_State.git), [Raycasters](https://github.com/jshull/FP_Ray.git), [Controllers](https://github.com/jshull/FP_Control.git), & Terrain
 > 
 > 11-17 [VFX Systems](https://learn.unity.com/tutorial/september-21-vfx-graph#) & [Particle Systems](https://learn.unity.com/project/creative-core-vfx) and more [Particle Systems](https://learn.unity.com/project/getting-started-with-particle-systems)
 
