@@ -4,7 +4,7 @@
 
 <Image>
 <a name="Dalle GenerationCapybara"></a>
-<img src="\Images\CapybaraProject.png" alt="Image of artificial intelligence generated Images using Dalle setup in a horizontal array. The prompts used for the Dalle generation are in the lower portions of the image. The bottom says 'A capybara wearing a backpack and a hardhat with a light looking for a place to complete their project assignment, digital art'" title="PulseHeader" class="centerheader"/>
+<img src="Images\CapybaraProject.png" alt="Image of artificial intelligence generated Images using Dalle setup in a horizontal array. The prompts used for the Dalle generation are in the lower portions of the image. The bottom says 'A capybara wearing a backpack and a hardhat with a light looking for a place to complete their project assignment, digital art'" title="PulseHeader" class="centerheader"/>
 </Image>
 
 Over the entire semester you've put in a lot of time, energy, and effort and this repository should reflect that. I am going to be looking through all of the material you submit. There are project folder structure requirements, there are simple readme.md files that are needed, your build will be included, your finalized unity project, and a final report will be included. I will only be evaluating your work on what you include in this repository. This is also your project, so feel free to include any additional content you want to include, just make sure you document that information within a readme.md located within the corresponding folder. Submission: a GitHub pull request where you request me as a reviewer. This final pull request should be you taking all of your work on your active develop branch and pulling it into the main branch.
@@ -40,7 +40,7 @@ Below is how your project should be formatted within the repository folder struc
 
 <Image>
 <a name="Dalle MiniPig"></a>
-<img src="\Images\QuestCompleted.png" alt="Image of artificial intelligence generated Images using Dalle setup in a horizontal array. The prompts used for the Dalle generation are in the lower portions of the image. The bottom says 'A mini-pig wearing a backpack and a hardhat who just completed the quest, holding the grail up above their head standing upon a mountain with a glorious sunset in the background, digital art'" title="CertificationHeader" class="centerheader"/>
+<img src="Images\QuestCompleted.png" alt="Image of artificial intelligence generated Images using Dalle setup in a horizontal array. The prompts used for the Dalle generation are in the lower portions of the image. The bottom says 'A mini-pig wearing a backpack and a hardhat who just completed the quest, holding the grail up above their head standing upon a mountain with a glorious sunset in the background, digital art'" title="CertificationHeader" class="centerheader"/>
 </Image>
 
 ## ChangeLog
@@ -119,7 +119,7 @@ Your complete unity project should be included here. Most of you already have th
 
 <Image>
 <a name="Dalle QuestTeam"></a>
-<img src="\Images\QuestTeam.png" alt="Image of artificial intelligence generated Images using Dalle generative frames - where multiple images are used to generate one image: the base images used were from the most selected animals during class: a cat, shibu inu, a bullfrog, a squirrel, a duck, and a turtle.'" title="CertificationHeader" class="centerheader"/>
+<img src="Images\QuestTeam.png" alt="Image of artificial intelligence generated Images using Dalle generative frames - where multiple images are used to generate one image: the base images used were from the most selected animals during class: a cat, shibu inu, a bullfrog, a squirrel, a duck, and a turtle.'" title="CertificationHeader" class="centerheader"/>
 </Image>
 
 ***
