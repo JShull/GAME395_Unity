@@ -19,17 +19,3 @@ GAME 395: Designing and Developing with the Unity Engine or as **[Dr. Moberly](h
 * [Student Music PlayList](https://music.apple.com/us/playlist/game-395-23699/pl.u-xlyNEdNCDpkae)
 * [Video About Me](https://studio.youtube.com/video/F-wHUHyhsLw/edit)
 * [Office Hours](https://outlook.office.com/bookwithme/user/a264cdcc1bda4ce4884e4b052b89bdc3@odu.edu/meetingtype/Rgez0jzYUEmWldIC-EhgVA2?anonymous&ep=mlink)
-
-## Required GitHub Classroom Assignment Links
-
-### Required Low Stake Assignments
-
-* [GitHub Profile Setup](https://classroom.github.com/a/0VKYc6wz): Expected Time 45-90 minutes
-* [Weekly Exit Tickets](https://forms.gle/cg9z5PgytyDKXeSh9): Expected Time 5-10 minutes
-* [Student Questionnaire](https://forms.gle/CcmG7sQD1HrGMGjc7): Expected time 20-30 minutes
-
-### Required Medium Stake Assignments
-
-* [Schedule First One-on-One](https://outlook.office.com/bookwithme/user/a264cdcc1bda4ce4884e4b052b89bdc3@odu.edu/meetingtype/uF-ZIAYQ70CeisWCoCzvLg2?anonymous)
-* [Unity GDD Document](https://docs.google.com/document/d/15IQfQ7PugD2nLHvzLEx9tlCrE7JR6mDma_yTuxwdmoA/copy)
-* [Unity Learning Plan](https://docs.google.com/document/d/1amDJ7yxelEflxOVgX-2aCB7rpZhAYpC6qWFyjI8nSbE/edit?usp=sharing)
