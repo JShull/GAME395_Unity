@@ -16,9 +16,9 @@ This is your contract, also known as a PULSE Check document. **P**rogressing **U
 
 ## PULSE Agreement Check-ins
 
-- [ ] Beginning of Semester (2-3 weeks)
-- [ ] Middle of Semester (7-9 weeks)
-- [ ] End of Semester (14-16 weeks)
+- [ ] [Beginning of Semester](https://outlook.office.com/bookwithme/user/a264cdcc1bda4ce4884e4b052b89bdc3@odu.edu/meetingtype/2CcvByaFsUKqSfx7ddWzQg2?anonymous) (2-3 weeks)
+- [ ] [Middle of Semester](https://outlook.office.com/bookwithme/user/a264cdcc1bda4ce4884e4b052b89bdc3@odu.edu/meetingtype/rCmLINcNl0aohXVYtBHLeA2?anonymous) (7-9 weeks)
+- [ ] [End of Semester](https://outlook.office.com/bookwithme/user/a264cdcc1bda4ce4884e4b052b89bdc3@odu.edu/meetingtype/BlmvMIg9Ok-O9LuKH-N9Tw2?anonymous) (14-16 weeks)
 
 ## Project Idea
 
