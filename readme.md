@@ -13,6 +13,6 @@ GAME 395: Designing and Developing with the Unity Engine or as **[Dr. Moberly](h
 * [Syllabus PDF](./Docs/Syllabus.pdf)
   * [Syllabus Markdown](./Docs/Syllabus.md)
 * [Canvas](https://canvas.odu.edu/courses/138109)
-* [Video About Me](https://studio.youtube.com/video/F-wHUHyhsLw/edit)
+* [Video About Me](https://youtu.be/F-wHUHyhsLw)
 * [Student Fall 2022 Music PlayList](https://music.apple.com/us/playlist/game-395-23699/pl.u-xlyNEdNCDpkae)
 * [Student Spring 2023 Music PlayList](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
