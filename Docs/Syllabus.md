@@ -11,17 +11,17 @@
 
 | | |
 |---|---|
-| **Instructor:** John Shull | **Semester:** Fall 2022 |
+| **Instructor:** John Shull | **Semester:** Spring 2023 |
 | **Email:** [JShull@odu.edu](mailto:jshull@odu.edu) | **Class Meeting Times:** Mon & Wed, 3:00-4:15pm |
 | **ODU Office:** Dragas 1108D | **Class Location:** Monarch Hall 2116 |
 
 ## Course Description
 
-GAME 395: Designing and Developing with the Unity Engine. This class will take a Systems Engineering approach into how you can use real-time simulation systems aka ‘Game Engines’ to rapid prototype, create, build, compile, and deploy functioning software across major hardware and operating systems. This class will break down Unity into its core systems and will explore how said systems can be found in most game engines: including Unreal, Godot, & Stride. We will be using a wide range of software standards to explore and utilize well known programming patterns, concepts of software versioning, creating and maintaining changelogs, taking advantage of version control systems like git and importantly using distributed version control systems like GitHub/GitLab, dabble with cloud deployment architectures within Unity and PlayFab, work through package management solutions, and will take advantage of new machine learning tools and how they are rapidly changing how we work within platforms like Unity. The class will focus on one core project that students will continue to iterate on across the length of the class and is heavily designed around one day being dedicated to learning/teaching with the second day using the software. Whether you’re an expert in Unity or brand new to Unity, this class will help build confidence, make you familiar with the entire Unity environment and their ever expanding tools and deployment processes, and will provide information that directly helps towards the completion of a [Unity Certification](https://unity.com/products/unity-certifications).
+GAME 395: Designing and Developing with the Unity Engine. This class will take a Systems Engineering approach into how you can use real-time simulation systems aka ‘Game Engines’ to rapid prototype, create, build, compile, and deploy functioning software across major hardware and operating systems. This class will break down Unity into its core systems and will explore how said systems can be found in most game engines: like Unreal, Godot, & Stride. We will be using a wide range of software standards to explore and take advantage of well known game-engine programming patterns, concepts of software versioning, creating and maintaining changelogs, taking advantage of version control systems like git, and importantly using distributed version control systems like GitHub/GitLab and time dependent we might dabble with cloud deployment architectures within Unity and services like PlayFab. We will work through package management solutions in Unity, and will take advantage of new machine learning tools like [ChatGPT3 and Dalle](https://openai.com/) and how they are rapidly changing how we work within platforms like Unity and VSCode. The class will focus on one core project that students will continue to iterate on across the length of the class and is heavily designed around one day being dedicated to learning/teaching with the second day using the software. Whether you’re an expert in Unity or brand new to Unity, this class will help build confidence, make you familiar with the entire Unity environment, immediately help build content for your portfolio, and will provide information that directly helps towards you building confidence in general software practices.
 
 ## Required & Suggested Materials
 
-There is no official book for this class - most of the information will be provided via the instructor and made accessible within a GitHub repository that will be provided and updated throughout the class. I will provide some free material and will be in the books folder. If you wanted to purchase a book, I would suggest [**'Choose your Wow!'** by Scott W.Ambler and Mark Lines](https://www.amazon.com/Choose-your-WoW-Disciplined-Optimizing/dp/1628257547/)  
+There is no official book for this class - most of the information will be provided via the instructor and made accessible within a GitHub repository that will be provided and updated throughout the class. I will provide some free material and will be in the books folder. If you wanted to purchase a book, I would suggest [**'Choose your Wow!'** by Scott W.Ambler and Mark Lines](https://www.amazon.com/Choose-your-WoW-Disciplined-Optimizing/dp/1628257547/)
 
 ***
 
@@ -36,7 +36,7 @@ There is no official book for this class - most of the information will be provi
 
 ## Office Hours & Contacting Me
 
-The best way to reach me is through [Microsoft Teams](https://teams.microsoft.com/l/chat/0/0?users=jshull@odu.edu). You can also reach me at [JShull@odu.edu](mailto:jshull@odu.edu). You can check my [Office Hours Booking page](https://outlook.office365.com/owa/calendar/JohnShull1@olddominion.onmicrosoft.com/bookings/) to request a MS Teams 15 minute time to meet with me. I am on campus Mondays & Wednesdays and at VMASC Tuesday & Thursday. If you ever need to meet outside of those times just ask me via email/teams if there's another time. I try to restrict my times down to keep me honest and on task as I tend to ramble and put others needs over my own which is a blessing and a curse!
+The best way to reach me is through [Microsoft Teams](https://teams.microsoft.com/l/chat/0/0?users=jshull@odu.edu). You can also reach me at [JShull@odu.edu](mailto:jshull@odu.edu). You can check my [Office Hours Booking page](https://outlook.office.com/bookwithme/user/a264cdcc1bda4ce4884e4b052b89bdc3@odu.edu/meetingtype/RDiapeLfhkq1XJ5topb6_g2?anonymous) to request a MS Teams 15 minute time to meet with me. I am on [campus](https://goo.gl/maps/ebtAi9WVRHqaKUgP9) Mondays & Wednesdays and at [VMASC](https://goo.gl/maps/o2nEecGLXEQnmMw28) Tuesdays & Thursdays. If you ever need to meet outside of those times just ask me via email/Teams if there's another time. I try to restrict my meeting times to keep me honest and on task as I tend to ramble and put others needs over my own which is a blessing and a curse!
 
 ## Student Learning Outcomes
 
@@ -51,8 +51,7 @@ My intention on teaching this class is to build confidence within a game engine 
 * Increased Confidence within Deployment from Unity3D
 * Understand the Unity3D educational pathways and Unity3D software model
 * Understand data standards and interoperability
-* Understand Unity3D audio systems and build confidence in recording and/or using your own effects
-* Understand the fundamentals of spatial computing, mixed reality, and how they intersect with real-time production
+* Understand high level Unity3D systems
 * Familiarity with program design patterns and not reinventing the wheel
 
 ***
@@ -67,37 +66,7 @@ My intention on teaching this class is to build confidence within a game engine 
 
 ### Student Learning Objectives
 
-To help align the outcomes with fundamental objectives I have prepared a breakdown of individualized objectives as defined by the Unity3D education team and my own personal objectives within this class. There is no direct relationship with a Unity objective and a John objective - but you will see some that naturally go hand in hand. These objectives are here to help keep the class transparent and me focused on making sure you know what to expect throughout the semester.
-
-| **Unity Objectives** | **John Objectives** |
-|---|---|
-|**U01.1:** Identify basic game design principles| **J01.1:** understand version control systems (VCS), be able to setup a basic git and GitHub repository |
-|**U01.3:** Implement fundamental project management concepts| **J01.2:** manipulate and modify a *gitignore* file and understand git large file system and a *gitattribute* file (git lfs)|
-|**U02.6:** Break down a problem into it's component parts, set priorities, & explore methods of resolution |**J01.3:** Awareness and understanding open source licenses|
-|**U02.9:** Use logic & reasoning to identify the strengths and weaknesses of alternative solutions, conclusions, or approaches to problems |**J01.4:** Understand the definition of user experience (UX) and how to create simple user personas|
-|**U03.6:** Generate Models and Materials for project(s) created within the Unity Editor | **J02.1:** Understand the basics of a Kanban board & importance of issue tracking, & everything is time |
-|**U03.7:** Apply fundamental concepts of project management - Project Charter Form (PCF) | **J02.2:** Be aware of Disciplined Agile Delivery concepts and aware of decision support systems |
-|**U03.11:** Evaluate the importance of iteration and rapid prototyping in game design|**J02.3:** Understand how to use decision support systems to help guide a asset/software acquisition decisions  |
-|**U04.7:** Create and control terrain within the Unity Editor|**J03.1:** Understand why data serialization is important, and be able to understand introductory concepts towards interoperability   |
-|**U04.9:** Distinguish components of a Work Breakdown Structure (WBS) |**J03.2:** Understand JSON, XML, and USD and be able to implement them within your project |
-|**U05.1-7:** Game Design Document (GDD)|**J03.3:** Understand the basics of package management, explore tools like pip and nuget|
-|**U06.1-8:** Game Development Tools, Formats, and Asset Management|**J03.4:** Understand Unity's package manager format, look into creating your own package and using GitHub to host it|
-|**U07.1-11:** Physics & Animation Systems|**J04.1:** Understanding the basics of foley recording|
-|**U10.2:** How sound files and music are used to enhance game experience and provide realism|**J04.2:** Understanding the basics of spatial audio recording|
-|**U10.3:** Apply audio and audio effects to create realistic environments|**J04.3:** Understanding the basics of podcast software|
-|**U10.5:** Doppler Effect and describe how to apply it within an experience|**J04.4:** Understanding the importance of spatial audio for mixed reality development|
-|**U10.8:** Manage external sound and music assets that contain intellectual property protection agreements|**J05.01:** Differences between Augmented Reality (AR), Virtual Reality (VR), and Mixed Reality (XR)|
-|**U11.1:** Appropriate assets for the project - resource list|**J05.02:** Why UX is vitally important for software development, and it's impacts within the future of spatial computing|
-|**U11.2:** Game Development Plan: sequence experience activities from start to finish to both UX and build process|**J05.03:** Familiarity with OpenXR input standards towards spatial experiences|
-|**U11.3:** Write Scripts that deal with player movement and interactions|**J05.04:** Familiarity with ARKit and the powers hidden behind Apple's integrated technology stack|
-|**U11.6:** User input to control actions via scripts, be comfortable with Unity's new Input Manager System|**J05.05:** Familiarity with Meta's SDK and the powers hidden behind Meta's Technology Stack|
-|**U13.1:** Quality Assurance (QA) Testing, types of bugs|**J05.06**: Familiarity with digital senses and how the brain/body can be fooled|
-|**U13.2:** Importance of documentation during testing phases|**J05.07:** Familiarity with hardware and software for haptic systems within XR|
-|**U13.4:** Perform successful debugging and troubleshooting activities within a game environment|**J06.1:** Understand the differences between verification & validation (V&V) |
-|**U13.5:** Locate bugs within a game environment using debugging software tools like visual studio|**J06.2:** [Changelog](https://keepachangelog.com/en/1.0.0/), what it is, why we care, and why it matters for game development|
-|**U14.1:** Explain the concepts and rationale behind versioning schemes and procedures|**J06.3:** Understanding prototypes, alpha, beta, gold/release candidate, Q&A, and how they align with software development, Kanban boards, and issue tracking|
-|**U14.3:** Create a versioning system for an experience development project|**J06.4:** Create your own GitHub issue template, use appropriate tags, and have it auto-file an issue for your experience repository|
-|**U14.5:** Describe factors that constitute a release candidate|**J06.5** Familiarity with Program Design Patterns: Adapter, Command, Factory Method, Resource Pooling, Memento, Singleton, FIFO/LIFO Queue Systems |
+To help align the outcomes with fundamental objectives I have prepared a breakdown of individualized objectives as defined by the Unity3D education team and my own personal objectives within this class. There is no direct relationship with a Unity objective and a John objective - but you will see some that naturally go hand in hand. These objectives are here to help keep the class transparent and me focused on making sure you know what to expect throughout the semester - this will change by the second week in class based on the Student Questionnaire! I have a massive table of objectives that I update each semester - I curate these tied to general game-engines and Unity specific as well as overall high level objectives of the class and possible other classes while making attempts to tailor them to the students coming into each class. I will update those for this semester after everyone has completed their Student Questionnaire.
 
 ***
 
@@ -129,17 +98,12 @@ These are items you will have the choice to complete. These items are broken up 
   * [Medium Stake Item](#medium-stake)
   * [Low Stake Item](#low-stake)
 
-### Live Demonstrations
+### Live Demonstrations & Industry Professionals
 
-Every other week my plan is to spend a few minutes demonstrating tools, software, SDKs, things that I've used, want to use, and/or want you to be aware of. Some weeks I might have a partial guest lecture to come in remote and/or on-site to talk through what tools/software they use. I am currently looking to get some of my colleagues from VMASC to help as well as some industry professionals from Valve and Ubisoft. Currently I have verbal agreements from the lead on Dota 2 and an individual who helps architect entire worlds for different a wide range of IP at Ubisoft.
-
-### Random Access Technology (RAT)
-
-A few minutes of me trying to scare the crap out of you with how fast automation is coming and to attempt to showoff some really cool technology stuff. In some cases this will be combined with the live demonstration portion of the class.
+Every couple of weeks I might  show-off some new technology, some new software, and/or some VMASC projects, and update some of my own public GitHub repositories that might be helpful for the class. I am working on finalizing the partial guest lectures that are from the game industry and/or technology experts ranging from Valve, Sharkmob, Ubisoft, and maybe some hardware companies like TiltFive and/or developers from the HoloLens team. In the past I've had people drop in that worked on Dota, Star Wars Battlefront and Jedi Survivor, BioShock Infinite, Assassins Creed, Ghost of Tsushima, Far Cry, The Division, and others!
 
 ***
 <div style="page-break-after: always;"></div>
-
 
 <Image>
 <a name="Dalle GenerationHawk"></a>
@@ -161,7 +125,6 @@ I will try my best to accommodate everyone in this class to the best of my abili
 |[Office of Education Accessibility](https://www.odu.edu/accessibility) 1021 Student Success Center [757.683.4655](tel:+7576834655)|[Women & Gender Equity Center](https://www.odu.edu/life/support/wgec) 1000 Webb Center [757.683.4109](tel:7576834109)|
 |[FeedODU Monarch Pantry](https://odu.edu/sees/feedodu) Suffolk Room in Webb Center [757.683.4325](tel:7576834325)|[Counseling Services](https://www.odu.edu/counselingservices) 1526 Webb Center, North Wing [757.683.4401](tel:7576834401)|
 |[The Writing Center](https://www.odu.edu/al/centers/writing-center) 1208 Perry Library [757.683.4013](tel:7576834013)|[Student Outreach and Support-SOS](https://www.odu.edu/life/dean-students/student-outreach) 2008 Webb Center [757.683.3442](tel:7576833442)|
-
 
 ***
 
@@ -192,7 +155,6 @@ This is getting broken down in the lower sections in [low](#low-stake), [medium]
 
 <div style="page-break-after: always;"></div>
 
-
 <Image>
 <a name="Dalle GenerationDolphin"></a>
 <img src="Images\DolphinLoot-01.png" alt="Image of artificial intelligence generated images using Dalle setup in a horizontal array. The prompts used for the Dalle generation are in the lower portions of the image. The bottom says 'A dolphin wearing a backpack and a hardhat with a light looking for the loot, digital art'" title="SyllabusHeader" class="centerheader"/>
@@ -200,7 +162,7 @@ This is getting broken down in the lower sections in [low](#low-stake), [medium]
 
 ### Low-Stake
 
-There are **3** required low-stake items that everyone will be doing. They are outlined below. There are then some additional low-stake items that you can choose from to complete towards your grading agreement.
+There are **4** required low-stake items that everyone will be doing. For the most part these are all taken care of the first 2-4 weeks of class and can be thought of as roughly 20% of your effort. There are then some additional low-stake items that you can choose from to complete towards your grading agreement.
 
 #### Required Low Stake Assignments (RLSA)
 
@@ -212,32 +174,29 @@ There are **3** required low-stake items that everyone will be doing. They are o
 
   >We will be learning the basics of git and general version control practices within the first two weeks. This Low-Stake assignment is for you to setup an outward facing GitHub profile page. I've included mine as a reference as well as others that you can look at. [John GitHub Profile Page](https://github.com/jshull)
 
-3. **RLSA:** [Grading Agreement Check-Ins](#grading-agreement-check-ins): Expected Time 15 minutes 2-3 times per semester
+3. **RLSA:** UnityID Account Setup: Expected Time 10 minutes
 
-  >You will be required to meet with me one-on-one to discuss your progress and your grading agreement.  I will be accommodating to schedules as needed. These meetings are designed to make sure to address any questions you have and to make sure you're on-path to deliver your working project.
+ >This is self-explanatory as this is a [Unity](https://id.unity.com/en/conversations/6a0b1b07-7146-4c05-92f2-ed88433c6afc002f) class!
 
-4. **RLSA:** [Student Questionnaire](https://forms.gle/CcmG7sQD1HrGMGjc7): Expected Time 20-45 minutes.
+4. **RLSA:** [Student Questionnaire](https://forms.gle/Er1HDHR6AyGPc8qP8): Expected Time 15-25 minutes.
 
   >This is a questionnaire that will be one of the first items you have to complete.
 
 #### Optional Low Stake Assignments (OLSA)
 
-1. **OLSA:** GitHub Training: Expected time 30-60 minutes
+1. **OLSA:** GitHub & Communication Training: Expected time 1-2 hours
 
-  >Pick **one** of the below training pathways and in your Weekly Trajectory Feedback Surveys: describe what you learned and invite me to be a reviewer on your GitHub repository that you're training on.
+  >Pick **two** of the below training pathways and in your Weekly Trajectory Feedback Surveys: describe what you learned and invite me to be a reviewer on your GitHub repository that you're training on.
   >>1. [Extension of Introduction to GitHub: Pull Requests](https://github.com/skills/review-pull-requests)
   >>2. [Extension of Introduction to GitHub: Resolve Merge Conflicts](https://github.com/skills/resolve-merge-conflicts)
+  >>3. [Communication using Markdown](https://github.com/skills/communicate-using-markdown)
+  >>4. [GitHub Pages](https://github.com/skills/github-pages)
+  >>5. [GitHub Actions: Hello World](https://github.com/skills/hello-github-actions)
 
-2. **OLSA:** Communication Training: Expected Time 60-90 minutes
-
-  >Pick **one** of the below training pathways and in your Weekly Trajectory Feedback Surveys: describe how you can apply the item you learned to help convey your project to others, to internal teammates, and/or how it contributes to your overall project strategy.
-  >>1. [Communication using Markdown](https://github.com/skills/communicate-using-markdown)
-  >>2. [GitHub Pages](https://github.com/skills/github-pages)
-  >>3. [GitHub Actions: Hello World](https://github.com/skills/hello-github-actions)
+***
 
 <div style="page-break-after: always;"></div>
 
-***
 
 <Image>
 <a name="Dalle GenerationOtter"></a>
@@ -250,25 +209,23 @@ There are **3** required medium-stake items that everyone will be doing. They ar
 
 #### Required Medium Stake Assignments (RMSA)
 
-1. **RMSA:** GDD Creation and develop your Unity3d learning plan: Expected Time 2-4 hours.
+1. **RMSA:** [Grading Agreement Check-Ins](#grading-agreement-check-ins): Expected Time 15 minutes 2-3 times per semester
 
-  >You can use an existing GDD but it needs to be updated and modified to reflect the semester project. There is also a Unity GDD template file that can be copied and I've copied that from Unity and placed it in our [class Google Drive](https://docs.google.com/document/d/15IQfQ7PugD2nLHvzLEx9tlCrE7JR6mDma_yTuxwdmoA/edit?usp=sharing).
-  >>For developing your learning plan, this is all part of the [Unity Learning environment](https://learn.unity.com/tutorial/develop-your-learning-plan)
+  >You will be required to meet with me one-on-one to discuss your progress and your grading agreement.  I will be accommodating to schedules as needed. These meetings are designed to make sure to address any questions you have and to make sure you're on-path to deliver your working project.
 
 2. **RMSA:** GitHub Project Generation and Management: Expected Time 7-14 hours over the course of the semester
 
   >Using GitHub project to help manage your Kanban board, expect to spend roughly 30-60 minutes on average a week managing your project board over the course of the semester. You will share your project repository with from the first initial [grading agreement](#grading-agreement-check-ins). Which means you should anticipate to have this setup and 'ready' by week 3.
 
-3. **RMSA:** Game Design Program Patterns: Expected Time 1-2 hours per pattern over the course of the semester
+3. **RMSA:** Project Final GitHub Pull Request: Expected Time 1-2 hours towards the end of the class
 
-  >The use of program design patterns can be scaled as to meet the grading agreement you are set on. Using 2 of the provided packages and/or creating your own aligns for the 'B pathway' and 3+ aligns to the 'A pathway'.
-  >>I will have this fully listed by week 2.
+  >Completion of a Required Repository Project format which will be given to you all well in advance and all project content that you work on across the entire semester will always be 'ready' for submission as it's part of the iterative design process: aka always be ready to deploy and deliver!
 
 #### Optional Medium Stake Assignments (OMSA)
 
 1. **OMSA:** Data Standards: Expected time 2 hours
 
-  >Generating your own data standards and the requirements for your experience
+  >Generating your own data standards and the requirements for your experience - see John for clarification as needed
 
 2. **OMSA:** Changelog: Expected time 2-4 hours over the semester
 
@@ -278,21 +235,11 @@ There are **3** required medium-stake items that everyone will be doing. They ar
 
   >Listen to [this Podcast](https://podcasts.apple.com/us/podcast/wisdom-from-50-years-in-software/id341623264?i=1000555744653) and write a 1 page report on how you would update your team on this information and how this information can help your current project
 
-4. **OMSA:** Unity Input System: Expected time 3-6 hours
-
-  >Follow along and complete the Unity Education on the ['Input System'](https://learn.unity.com/project/using-the-input-system-in-unity) and implement it into your current project
-
-5. **OMSA:** Unity Addressable System: Expected time 3-5 hours
-
-  >Follow along and complete the Unity Education on ['Getting Started with Addressables'](https://learn.unity.com/project/getting-started-with-addressables) and implement it into your current project
-  
-6. **OMSA:** Unity Animation System: Expected time 12 hours
-
-  >Follow along and complete the Unity Education on ['3D Animation Systems'](https://learn.unity.com/course/introduction-to-3d-animation-systems) and implement it into your current project
-
-<div style="page-break-after: always;"></div>
+4. **OMSA:** Additional Unity Learn Content: Expected time 3-10 hours depending upon the content
 
 ***
+
+<div style="page-break-after: always;"></div>
 
 <Image>
 <a name="Dalle GenerationPenguin"></a>
@@ -303,13 +250,14 @@ There are **3** required medium-stake items that everyone will be doing. They ar
 
 There are **3** required high-stake items that everyone will be doing. They are outlined below. High-stake items are slightly different, as they are fundamental to the class, and there is no such thing as an *optional* high-stake item. Now within the high-stake assignments you will see variations of requirements that aline to your grading agreement pathway. This class is based around the end deliverable and these high-stake assignments support that ultimate deliverable.
 
-1. End Project Presentation
+1. Experience Design Document & Project Plan
   
-  > Demo a working deployed experience via Unity3D on device and show it off during our exam time in class.
+  > Demo a working deployed experience via Unity3D on device and show it off during our exam time in class
+  > Showcase your burn-down GitHub project plan as well as explain your project tasking breakdown
 
-2. Unity Training
+2. Unity Learn Progress: Expected time 30-40 hours
 
-  >Unity Learn is amazing and I'd be a complete idiot for not taking advantage of it in this class. **Unity** runs a few different ways of learning. You will be picking one of the Creator Kit Beginner Projects on Unity Learn and will work through it.Not all of the ones listed below are directly part of the creator kit beginner projects and we will identify these in our first one-on-one meeting.
+  >Unity Learn is amazing and I'd be a complete idiot for not taking advantage of it in this class. **Unity** runs a few different ways of learning. You will have a lot of control here to go through the various pathways and/or kits. This is the brunt of the time you will be spending outside of class - think 3 hours a week for roughly 10-12 weeks. Not all of the ones listed below are directly part of the creator kit beginner projects and we will finalize these during our first one-on-one meeting.
   >
   >Pick a creator kit and work through a 'beginner project'
   >
@@ -325,60 +273,70 @@ There are **3** required high-stake items that everyone will be doing. They are 
 
 3. Unity Live Learning or Unity Unite Presentation
   
-  >Register for one [Unity Learning Course from the Unity Learn Live Calendar](https://learn.unity.com/live-calendar) or you can look into [Unity Unite 2022](https://unity.com/events/unite) (starts November 1) and register for a session.
-  >>Provide a one page write-up or be ready to present a small (less than 5 slides) two minute presentation on how either the live learning or what you learned at a Unity Unity conference will contribute towards your project. If you choose the presentation route be ready for some class questions. If you go with the write-up you will have to use [markdown](https://www.markdownguide.org/) or [latex](https://www.latex-project.org/) to right your report in.
-
-<div style="page-break-after: always;"></div>
+  >Register for one [Unity Learning Course from the Unity Learn Live Calendar](https://learn.unity.com/live-calendar) or you can look into the most recent [Unity Unite](https://unity.com/events/unite) which was live in November 2022. They have all of their sessions archived and you should be able to see them upon logging in and/or creating your UnityID.
+  >>To complete this there is a section within your final project template that you will have to explain your choices via Unity Live and/or Unity Unite and how it helped and/or gave you additional insight into Unity!
 
 ***
 
+<div style="page-break-after: always;"></div>
+
 <Image>
-<a name="Dalle GenerationOtter"></a>
-<img src="Images\KillerWhaleLoot-01.png" alt="Image of artificial intelligence generated images using Dalle setup in a horizontal array. The prompts used for the Dalle generation are in the lower portions of the image. The bottom says 'An otter wearing a backpack and a hardhat with a light looking for the loot, digital art'" title="SyllabusHeader" class="centerheader"/>
+<a name="Dalle GenerationKillerWhale"></a>
+<img src="Images\KillerWhaleLoot-01.png" alt="Image of artificial intelligence generated images using Dalle setup in a horizontal array. The prompts used for the Dalle generation are in the lower portions of the image. The bottom says 'A killer whale wearing a backpack and a hardhat with a light looking for the loot, digital art'" title="SyllabusHeader" class="centerheader"/>
 </Image>
 
 ### Grading Agreement Details
 
-In order to be eligible to pass this course with a **'C'** you *must* complete all required stake assignments - I've based these requirements on the expected minimum amount of time spent outside of class. If this is your *goal* I suggest you drop the class. I will be making some changes to these agreements within the first week and they are not initially due to me until the second week. The Grading agreements will be addressed during our one-on-one while using the [Pulse Check Document](./PulseCheck.md).
-
-***
+In order to be eligible to pass this course with a **'C'** you *must* complete all required stake assignments - I've based these requirements on the expected minimum amount of time spent outside of class. If this is your *goal* I suggest you drop the class and rethink your major (especially those in Game Design). I will be making some changes to these agreements within the first week and they are not initially due to me until we have our first one-on-one as this is the main reason: to address the grading agreement.
 
 #### The Advanced 'A' Agreement
 
-An **A** in this class requires you to go beyond the normal expected allotment of time for this class. The typical rule is 3 hours per 1 hour of in class time. A 3 credit class then would require about 9 hours of additional weekly time spent on a single class. Given that this class is software intensive and we are all coming at it with different backgrounds this is going to range wildly across each individual. To maintain that this class is accessible but also realistic in your expectations, expect to use my office hours a lot, expect to put additional time after class to fully grasp all that you could do within Unity, expect lots of failures, and you shall be rewarded. My main job for you within an A contract is to help limit your focus so you set a good cadence and still maintain realistic hours within the time frame alloted for this class.
+An **A** in this class requires you to go beyond the normal expected allotment of time for this class. The typical rule is 2-3 hours per 1 hour of in class time. A 3 credit class then would require about 5-6 hours of additional weekly time spent on a single class. Given that this class is software intensive and we are all coming at it with different backgrounds this is going to range wildly across each individual. To maintain that this class is accessible, but also realistic in your expectations, expect to use my office hours a lot, use me to help with your projects when you're stuck (that's the point of me teaching the class!!), be ready to put additional time after class to fully grasp all that you could do within Unity, expect lots of failures and through those failures I promise you will be rewarded. My main job for you within an A agreement is to help limit your focus so you set a good cadence and still maintain realistic hours within the time frame alloted for this class: no one wants to overwork and my theory is overworking is a derivative of bad planning.
 
-* Complete all Required stake assignments
-* Complete 4 Optional Medium Stake Assignments
-* Complete all optional Low Stake Assignments
+* Complete all assignments
 * Submit 12 Weekly Exit Tickets
 * Your experience/software/game compiles and runs on device with no major issues.
   * This software aligns to your GDD and your Unity Education Plan
+* Turn in your Final Project Pull Request
+* Show up to the Final Exam
 * Show up prepared for at least 3 conferences with me
-* *Create your own Unity Package and host it on GitHub - will talk more about this later
+* Contribute to the local community in a way that you define
 
 #### The Basic 'B' Agreement
 
-A **B** in this class is easy to get. Show up and use the lab time wisely and most of you should be okay. I hope that by setting this contract slightly above a C but way below an A that it gives you that extra peace of mind to know that you will pass the class by contributing and being part of the process - this is important in industry and contributing towards a better community. I hope that this also then encourages you to push for that next level contract.
+A **B** in this class is easy to get. Show up, use the lab time wisely, make sure to hit all of the low-stake assignments and the big Experience Design Document & Project Plan and most of you should be okay. I hope that by setting this contract slightly above a C but way below an A that it gives you that extra peace of mind to know that you will pass the class by contributing and being part of the process - this is important in industry and contributing towards a better community. I hope that this also then encourages you to push for that next level contract as a 'B' in this class is BASIC AF and you all are better than that!
 
 * Complete all Required stake assignments
-* Complete 2 Optional Medium Stake Assignments
 * Submit 9 Weekly Exit Tickets
+* Turn in your Final Project Pull Request
+* Show up to the Final Exam
 * Your experience compiles and runs on device
   * This software aligns to your Unity Education Plan
 * Show up prepared for at least 2 conferences with me
 
-<div style="page-break-after: always;"></div>
+#### The Rubbish Crud 'C' Agreement
+
+A **C** in this class requires you to plan, use Unity Learn, and layout your plan and then failing on your plan, dropping off the face of the earth and/or just ghosting all of us. Is this an ideal way of taking any class you're paying for? **NOPE**. This is here as a catch-all that I wish I had as I was figuring out my life 20 years ago. I will not allow anyone to actually agree to this agreement, but it's here for those 'life happens' moments. The entire class is designed around you wanting to learn and putting in the time. You are "buying your time" is the best way to think of this class and this agreement is for when *'Sh$$' happens'* and you make some attempt to communicate that with me so I can help you prepare for the *crud*.
+
+* Complete some required stake assignments
+  * Complete the Experience Design Document & Project Plan
+* Submit 6 Weekly Exit Tickets
+* Turn in your Final Project Pull Request
+* Show up to the Final Exam and provide a presentation on failures and lessons learned
+* Show up prepared for at least 2 conferences with me
 
 ***
 
+<div style="page-break-after: always;"></div>
+
 <Image>
-<a name="Dalle GenerationOtter"></a>
+<a name="Dalle GenerationIguana"></a>
 <img src="Images\IguanaLoot-01.png" alt="Image of artificial intelligence generated images using Dalle setup in a horizontal array. The prompts used for the Dalle generation are in the lower portions of the image. The bottom says 'An Iguana wearing a backpack and a hardhat with a light looking for the loot, digital art'" title="SyllabusHeader" class="centerheader"/>
 </Image>
 
 ### How to Exceed The 'B'
 
-Students earn **As** by completing additional labor and engaging with the course in more independent, meaningful and exemplary ways, and sharing it with their classmates and I to enrich our understanding, further our learning, and expand our community of practice.
+Students earn **A's** by completing additional labor and engaging with the course in more independent, meaningful and exemplary ways, and sharing it with their classmates and I to enrich our understanding, further our learning, and expand our community of practice.
 
 At the end of the semester, you will meet with me for a 15-20 minute conference during the final week of the semester. You will complete your final Grading Agreement & Goals Check-In before our meeting which asks you to return to all of the work you completed throughout the semester. The goal is for you to see your learning by comparing earlier and later understanding. I want you to feel pride for your work. It also gives you an opportunity to review class material which is important for retention.
 **If this process gives you anxiety, come speak to me at any point during the semester to confer about your progress in the course.**
@@ -393,6 +351,10 @@ Through periodic grading agreement check-ins with students we will work together
 
 We will talk more about what this means and you will be given the opportunity to consider what this looks like for you over the course of the semester.
 
+***
+
+<div style="page-break-after: always;"></div>
+
 ### Late Work & Grace Period
 
 My late work policy includes a Grace Period that should cover most of the problems that arise (e.g., academic conflicts, illness,
@@ -405,9 +367,10 @@ You do not need to ask in advance or explain why your work is late. Instead, jus
 >
 >3. The Deadline comes 3 days after the Due Date. There are no extensions on the Deadline date. If you do not turn in your work by the end of the Grace Period, you will receive a “Not Submitted” for that assignment and may not receive feedback for revisions after that.
 
-**Extenuating Circumstances**: In the case of extenuating circumstances, contact me as soon as possible. As long as you are honest and timely in letting me know what’s going on, we will most likely be able to work something out.
+**Extenuating Circumstances**: In the case of extenuating circumstances, contact me as soon as possible. As long as you are honest and timely in letting me know what’s going on, we will most likely be able to work something out as that's how the rest of the world works and I don't care about my ego ;)
 
 ***
+
 <div style="page-break-after: always;"></div>
 
 <Image>
@@ -421,6 +384,7 @@ You do not need to ask in advance or explain why your work is late. Instead, jus
 >If we break down the time we meet: 75 minutes per class, accounting for holidays in the Fall semester of 2022 you get me for 27 classes, or 2025 minutes. My plan right now is to use approximately 825-1050 minutes towards lecture, leaving you roughly 975-1200 minutes for in-class software use towards your project and *consultant time* with me. This means overall the class is costing you $0.50 a minute (ballpark). If you were to contract me as a private consultant, my rate is roughly $150-$200 an hour depending upon what the level of need is. If you take the time leftover to utilize me as a consultant in this class (975-1200 minutes or roughly 20 hours) my cost to you is roughly $4000 and that's just for half of the time mentioned, so for the full time you're getting me for roughly 1/8th the cost. *This doesn't even include the additional hours weekly I hold for office hours*. I point this out because I believe in transparency and I want you to know how the rest of the world operates. This is not a way to boost my own ego, but hopefully for you all to fully understand and appreciate the cost of scale when taking these classes and to get the best bang for your :dollar: I would like to utilize every minute you have within this class with your fellow classmates and with my time and experience to help you escalate your capabilities and build that confidence! If you strive for the highest [grading agreement](#a-b-contract) offered and hit it; I will personally write you a letter of recommendation as needed, when needed, as long as you notify me with at least two weeks notice. This offer will be good the moment your grades post and is good until December 31, 2025.
 
 ***
+
 <div style="page-break-after: always;"></div>
 
 <Image>
