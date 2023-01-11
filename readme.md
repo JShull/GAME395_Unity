@@ -27,6 +27,7 @@ If you're setting up a Windows machine to go along with the class please downloa
 * [Git Download Windows](https://git-scm.com/download/win)
 * [Git Large File Storage-GitLFS](https://git-lfs.com/)
 * [GitHub Desktop Download](https://desktop.github.com/)
+* [Git Documentation Link](https://git-scm.com/docs)
 
 #### Unity
 
