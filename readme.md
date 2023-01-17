@@ -37,4 +37,4 @@ If you're setting up a Windows machine to go along with the class please downloa
 ### Class PlayList
 
 * [Student Fall 2022 Music PlayList](https://music.apple.com/us/playlist/game-395-23699/pl.u-xlyNEdNCDpkae)
-* [Student Spring 2023 Music PlayList](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+* [Student Spring 2023 Music PlayList](https://music.apple.com/us/playlist/game395-odu-33915/pl.u-KVXBk1vFRmZPd)
