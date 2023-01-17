@@ -20,15 +20,6 @@ GAME 395: Designing and Developing with the Unity Engine or as **[Dr. Moberly](h
 
 The links and resources below are primarily the software we will be using in class for assignments and the project work.
 
-### Content Creation Software
-
-Below will be an evolving list of links for various mobile/PC based applications to help create content via modern technology.
-
-* [Reality Scan](https://www.unrealengine.com/en-US/blog/realityscan-is-now-free-to-download-on-ios) Only for iOS but Android is coming - one of the best mobile 3D capture applications on the market and it's 'Free'
-* [Luma AI](https://lumalabs.ai/) can upload videos to their site and get 3D surface models, use your mobile phone to capture items/objects, similar to reality scan but uses a slightly different approach to capturing your item
-* [Unity AR Companion App](https://blog.unity.com/technology/the-ar-companion-app-is-now-available) Unity provides an AR tool that lets you capture content - works on both Android and iOS devices.
-* [Meshroom](https://alicevision.org/#meshroom) little more advanced PC software that is open source and free - creates impressive point cloud data files from multiple sensors/devices and reconstructs a surface mesh. Don't need a high end GPU - but you're going to want to use one. Supported on Windows/Linux
-
 #### Version Control
 
 If you're setting up a Windows machine to go along with the class please download and install these in the order they are provided.
@@ -42,6 +33,15 @@ If you're setting up a Windows machine to go along with the class please downloa
 
 * [Unity Account ID Setup](https://id.unity.com/en/conversations/c2016f3e-64f8-49dd-aab3-7dbbd1246252001f?view=register)
 * [Unity Hub Download Windows](https://public-cdn.cloud.unity3d.com/hub/prod/UnityHubSetup.exe?_ga=2.84960474.216678318.1673466041-215617741.1670276335&_gac=1.186748634.1671739732.CjwKCAiAnZCdBhBmEiwA8nDQxejInOjjSGflQNg_ljlR4V4ugOfktvmxEWIGjm1D-1quNhOBbgzWUBoCWtMQAvD_BwE)
+
+#### Content Creation Software
+
+Below will be an evolving list of links for various mobile/PC based applications to help create content via modern technology.
+
+* [Reality Scan](https://www.unrealengine.com/en-US/blog/realityscan-is-now-free-to-download-on-ios) Only for iOS but Android is coming - one of the best mobile 3D capture applications on the market and it's 'Free'
+* [Luma AI](https://lumalabs.ai/) can upload videos to their site and get 3D surface models, use your mobile phone to capture items/objects, similar to reality scan but uses a slightly different approach to capturing your item
+* [Unity AR Companion App](https://blog.unity.com/technology/the-ar-companion-app-is-now-available) Unity provides an AR tool that lets you capture content - works on both Android and iOS devices.
+* [Meshroom](https://alicevision.org/#meshroom) little more advanced PC software that is open source and free - creates impressive point cloud data files from multiple sensors/devices and reconstructs a surface mesh. Don't need a high end GPU - but you're going to want to use one. Supported on Windows/Linux
 
 ### Class PlayList
 
