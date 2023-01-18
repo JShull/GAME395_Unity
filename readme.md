@@ -33,6 +33,7 @@ If you're setting up a Windows machine to go along with the class please downloa
 
 * [Unity Account ID Setup](https://id.unity.com/en/conversations/c2016f3e-64f8-49dd-aab3-7dbbd1246252001f?view=register)
 * [Unity Hub Download Windows](https://public-cdn.cloud.unity3d.com/hub/prod/UnityHubSetup.exe?_ga=2.84960474.216678318.1673466041-215617741.1670276335&_gac=1.186748634.1671739732.CjwKCAiAnZCdBhBmEiwA8nDQxejInOjjSGflQNg_ljlR4V4ugOfktvmxEWIGjm1D-1quNhOBbgzWUBoCWtMQAvD_BwE)
+* [Unity GitIgnore Template](https://github.com/github/gitignore/blob/main/Unity.gitignore)
 
 #### Content Creation Software
 
