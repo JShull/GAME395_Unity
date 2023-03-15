@@ -43,23 +43,30 @@ NOTHING!
 
 ## March 13 & 15
 
-Content Creation and Capture: New Unity Tooling, [Unity AR Face Capture](https://learn.unity.com/tutorial/tracking-faces-in-ar#), and motion capture at VMASC
+No class Monday 3-13
+
+Wednesday class: Introduction to John's Chaos Unity Project Template. Motion Capture getting pushed back until April 7th or April 10th.
 
 ## March 20 & 22
 
-*Chance I'm out this entire week* pre-recorded videos dealing with Continuation of Content Creation and Capture: [Unity ProBuilder & Grey boxing](https://learn.unity.com/tutorial/working-with-shapes-in-probuilder), [VFX Systems](https://learn.unity.com/tutorial/september-21-vfx-graph#) & [Particle Systems](https://learn.unity.com/project/creative-core-vfx) and more [Particle Systems](https://learn.unity.com/project/getting-started-with-particle-systems)
+* [Unity ProBuilder & Grey boxing](https://learn.unity.com/tutorial/working-with-shapes-in-probuilder) new level for Chaos Project.
+* New Unity Tooling, [Unity AR Face Capture](https://learn.unity.com/tutorial/tracking-faces-in-ar#) show case Unity facial capture tools.
 
 ## March 27 & 29
 
-Continuation of Content Creation & Capture: [PolyBrush](https://learn.unity.com/project/asset-management-with-fbx-exporter-probuilder-and-polybrush), [Unity Terrain Editor](https://learn.unity.com/project/introduction-to-terrain-editor), and [Graphics Pipeline](https://learn.unity.com/project/up-and-running-with-urp)
+* Continuation of Content Creation & Capture: [PolyBrush](https://learn.unity.com/project/asset-management-with-fbx-exporter-probuilder-and-polybrush) as we add in new obstacles for the Chaos Project
+* [Graphics Pipeline](https://learn.unity.com/project/up-and-running-with-urp) and time permitting add in some simple [Unity Terrain](https://learn.unity.com/project/introduction-to-terrain-editor) for the Chaos Project.
 
 ## April 3 & 5
 
-Dip into Unity Animation Rigging [2D](https://learn.unity.com/tutorial/rigging-a-sprite-with-the-2d-animation-package#6017535aedbc2a69ae9b3b9e) & [3D](https://learn.unity.com/tutorial/working-with-animation-rigging)
+Let's watch John not be an animator but still manage to showcase how you can use the Rigging tools.
+* [2D](https://learn.unity.com/tutorial/rigging-a-sprite-with-the-2d-animation-package#6017535aedbc2a69ae9b3b9e)
+* [3D](https://learn.unity.com/tutorial/working-with-animation-rigging)
 
 ## April 10 & 12
 
-Flex Week - cover anything that fell off and work towards final project completion
+* Project Updates and Project Contract Ammendments and in class time to work on your own work.
+* I will be using the class time to see how easy/hard it will be to get my current Chaos Project to be networked for a simple multiplayer version of it
 
 ## April 17 & 19
 
