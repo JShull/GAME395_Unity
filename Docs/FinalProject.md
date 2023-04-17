@@ -21,7 +21,7 @@ Below is how your project should be formatted within the repository folder struc
     │   ├── Images
     │   ├── PulseChecks
     |   └── UnityCerts
-    ├── FallBreakSub
+    ├── ProjectProposal
     │   └── 'Name'_Proposal.md
     ├── FinalProjectSub
     │   ├── 'Name'_Final.md
