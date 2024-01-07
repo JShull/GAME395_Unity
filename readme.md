@@ -27,6 +27,7 @@ If you're setting up a Windows machine to go along with the class please downloa
 * [Git Download Windows](https://git-scm.com/download/win)
 * [Git Large File Storage-GitLFS](https://git-lfs.com/)
 * [GitHub Desktop Download](https://desktop.github.com/)
+  * After you provide your GitHub handle you will be able to [join the Game Design GitHub](https://github.com/Game-Design-ODU)
 * [Git Documentation Link](https://git-scm.com/docs)
 
 #### Unity
