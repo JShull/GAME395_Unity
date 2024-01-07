@@ -4,78 +4,71 @@
 
 ![Image](./Images/PorcupineLoot-01.png)
 
-## January 9 & 11
+## January 8 & 10 Week1 : Introductions
 
-Syllabus, introduction to the class, low-stake assignments, markdown & GitHub setup.
+Syllabus, introduction to the class, low-stake assignments, markdown, git, Unity & GitHub setup.
 
-## January (Holiday) 16 & 18
+## January (Holiday) 15 & 17 Week2 : Setup
 
-Unity Setup w/licenses, Unity project setup with Version Control Basics, and Unity Learn Pathways.
+Unity Setup w/licenses, Unity Editor Introduction, Unity Package Manager, Unity project setup with Version Control Basics, and DIY Unity Learn.
 
-## January 23 & 25
+## January 22 & 24 Week3 : Setup
 
-[Unity Editor 101 Interface Introductions](https://learn.unity.com/pathway/unity-essentials), [Unity Package Manager](https://learn.unity.com/tutorial/the-package-manager#5f6060d2edbc2a001ee93971), Unity's Component Model, and GitHub Project Plan.
+Project Mod Introductions. Continuation of Unity Editor and Project Management, Unity Package Manager, Unity's Component Model, Object Oriented Concepts, Data Oriented Concepts, and GitHub Project Plan.
 
-## January 30 & February 1
+## January 29 (Remote-Async) & 31 Week4 : Pre-Pitch
 
-[Unity Input System](https://learn.unity.com/project/using-the-input-system-in-unity), Unity Editor Tags/Layers, Unity Event System, Importing 2D/3D Assets, & lock in on Unity Learn Pathways
+Unity Editor Tags/Layers, Unity I/O,  Unity Event System, URP, Importing 2D/3D Assets, & General Scripting Practices. Observer and Humble Pattern Introduction.
 
-## February 6 & 8
+## February 5 & 7 Week5 : Pre-Pitch
 
-Continuation of Unity Editor, I/O, importing assets, and exploring content capture applications and hammer down on your project plan.
+Continuation of Unity Editor and scripting practices (CAMEL or SNAKE?!), Observer/Humble, I/O, importing assets, exploring content capture applications, and initial draft of your project plan.
 
-## February 13 & 15
+## February 12 & 14 Week6 : Pre-Pitch
+
+Continuation of Observer/Humble, I/O, Unity Raycasts, Custom Unity Packages, and Unity Physics.
+
+## February 19 & 21 Week7 : Pitch.High Level
 
 **Project plans are due**
-UI, [Unity Prefabs](https://learn.unity.com/tutorial/introduction-to-nested-prefabs), [Scriptable Objects](https://learn.unity.com/tutorial/introduction-to-scriptable-objects), and Saving Player Data
+Continuation of Custom Unity Packages, OpenUPM, & Mobile Deployment Models. Content Delivery Services. User Interface, Prefabs, and Saving Player Data.
 
-## February 20 & 22
+## February 26 & 28 Week8 : Pre-Production.Document
 
-General Scripting & [Visual Scripting](https://learn.unity.com/project/visual-scripting-application-clive-the-cat-s-visual-crypting), and Project Feedback
+Prefab workflow continuation and Introduction to Asset Bundles. Quick class mod challenge.
 
-## February 27 & March 1
-
-[Unity Raycasts](https://learn.unity.com/tutorial/karting-mod-smart-karts-training-guide) and [Unity Physics](https://learn.unity.com/tutorial/intro-to-the-unity-physics-engine-2019-3)
-
-## March 6 & 8 (SPRING BREAK)
+## March 4 & 6 Week9 (SPRING BREAK) : Pre-Production
 
 NOTHING!
 
-## March 13 & 15
+## March 11 & 13 Week10 : Production.Skeleton
 
-No class Monday 3-13
+Field Trip: Motion capture at VMASC. Dip into Unity Animation Rigging [2D](https://learn.unity.com/tutorial/rigging-a-sprite-with-the-2d-animation-package#6017535aedbc2a69ae9b3b9e) & [3D](https://learn.unity.com/tutorial/working-with-animation-rigging)
 
-Wednesday class: Introduction to John's Chaos Unity Project Template. Motion Capture getting pushed back until April 7th or April 10th.
+## March 18 & 20 Week11 : Production.Skeleton
 
-## March 20 & 22
+PolyBrush and ProBuilder. Level Design continuation.
 
-* [Unity ProBuilder & Grey boxing](https://learn.unity.com/tutorial/working-with-shapes-in-probuilder) new level for Chaos Project.
-* New Unity Tooling, [Unity AR Face Capture](https://learn.unity.com/tutorial/tracking-faces-in-ar#) show case Unity facial capture tools.
+## March 25 & 27 Week12 : Production.First-Intention-Pass
 
-## March 27 & 29
+Level Design work and Terrain Editor.
 
-* Continuation of Content Creation & Capture: [PolyBrush](https://learn.unity.com/project/asset-management-with-fbx-exporter-probuilder-and-polybrush) as we add in new obstacles for the Chaos Project
-* [Graphics Pipeline](https://learn.unity.com/project/up-and-running-with-urp) and time permitting add in some simple [Unity Terrain](https://learn.unity.com/project/introduction-to-terrain-editor) for the Chaos Project.
+## April 1 & 3 Week13 : Production.Alpha
 
-## April 3 & 5
+Flex Week - cover anything that fell off and work towards final project completion
 
-Let's watch John not be an animator but still manage to showcase how you can use the Rigging tools.
-* [2D](https://learn.unity.com/tutorial/rigging-a-sprite-with-the-2d-animation-package#6017535aedbc2a69ae9b3b9e)
-* [3D](https://learn.unity.com/tutorial/working-with-animation-rigging)
+## April 8 & 10 Week14 : Production.Alpha
 
-## April 10 & 12
+Flex Week - cover anything that fell off and work towards final project completion
 
-* Project Updates and Project Contract Ammendments and in class time to work on your own work.
-* I will be using the class time to see how easy/hard it will be to get my current Chaos Project to be networked for a simple multiplayer version of it
+## April 15 & 17 Week15 : Production.Beta
 
-## April 17 & 19
+Flex Week - cover anything that fell off and work towards final project completion (Final Project due April 22st)
 
-Flex Week - cover anything that fell off and work towards final project completion (Final Project due April 21st)
+## April 22 Week16 : Production.Closing
 
-## April 24
+Last day of the semester and all final projects have to be submitted by end of class.
 
-Last day of the semester and all final projects have to be in by midnight.
-
-## April 28
+## April 26 : Production.Gold
 
 **Friday**: Exam Block 3:45-6:45, ["SHOW ME WHAT YOU GOT"](https://www.youtube.com/watch?v=m1fZ7Ap6ebs)

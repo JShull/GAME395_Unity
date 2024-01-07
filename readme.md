@@ -1,4 +1,4 @@
-![When cats rule the utopian Japanese City of Tokyo](./Images/DALLE/Spring2023.png)
+![When cats rule the utopian Japanese City of Tokyo](./Images/DALLE/Spring2024.png)
 
 # Game 395 Unity3D and Software Development
 
@@ -6,13 +6,13 @@ If you have any questions please reach me on [ODU Microsoft Teams](https://teams
 
 ## Course Description
 
-GAME 395: Designing and Developing with the Unity Engine or as **[Dr. Moberly](https://www.odu.edu/directory/people/k/kmoberly)** calls it *'Unity Zero to Hero'*. This class will take a Systems Engineering approach into how you can use real-time simulation systems aka ‘Game Engines’ to rapid prototype, create, build, compile, and deploy functioning software across major hardware and operating systems. This class will break down Unity into its core systems and will explore how said systems can be found in most game engines: including Unreal, Godot, & Stride. We will be using a wide range of software standards to explore and utilize well known programming patterns, concepts of software versioning, creating and maintaining changelogs, taking advantage of version control systems like git and importantly using distributed version control systems like GitHub/GitLab, and work through package management solutions. The class will focus on one core project that students will continue to iterate on across the length of the class and is heavily designed around one day being dedicated to learning/teaching with the second day using the software. This class is best suited for those who already have a project in mind and the class can be thought of as you buying your own time to focus in on Unity. You have direct access to my experience and plan on using my experiences and skill-set to help you lift your ideas to successful Unity builds.
+GAME 395: Designing and Developing with the Unity Engine or as **[Dr. Moberly](https://www.odu.edu/directory/people/k/kmoberly)** calls it *'Unity Zero to Hero'*. This class will take a Systems Engineering approach into how you can use real-time simulation systems aka ‘Game Engines’ to rapid prototype, create, build, compile, and deploy functioning software across major hardware and operating systems. We will primarily be utilizing Unity3D for the class and we might explore Godot as well. We will focus in on four key areas: Version Control, Unity, 'The Observer Pattern', and the 'Humble Pattern'. We will work through the Unity Package Management system so you can make your own Unity Package(s). The class will focus on one core project that students will have to **[mod](https://en.wikipedia.org/wiki/Video_game_modding)**. Upon modding the game you will then be required to deploy it across either Windows, Linux, Mac, Android, or iOS.
 
 ## Class Quick Links
 
 * [Syllabus PDF](./Docs/Syllabus.pdf)
   * [Syllabus Markdown](./Docs/Syllabus.md)
-* [Canvas](https://canvas.odu.edu/courses/138109)
+* [Canvas](https://canvas.odu.edu/courses/154469)
 * [Video About Me](https://youtu.be/F-wHUHyhsLw)
 * [MarkdownGuide.org](https://www.markdownguide.org/)
 
@@ -31,9 +31,15 @@ If you're setting up a Windows machine to go along with the class please downloa
 
 #### Unity
 
-* [Unity Account ID Setup](https://id.unity.com/en/conversations/c2016f3e-64f8-49dd-aab3-7dbbd1246252001f?view=register)
-* [Unity Hub Download Windows](https://public-cdn.cloud.unity3d.com/hub/prod/UnityHubSetup.exe?_ga=2.84960474.216678318.1673466041-215617741.1670276335&_gac=1.186748634.1671739732.CjwKCAiAnZCdBhBmEiwA8nDQxejInOjjSGflQNg_ljlR4V4ugOfktvmxEWIGjm1D-1quNhOBbgzWUBoCWtMQAvD_BwE)
+* [Unity Account ID Setup](https://id.unity.com/en/conversations/81585787-95d9-4532-9429-8dc13dc2939f019f)
+* [Unity Hub Download Windows](https://unity.com/download)
 * [Unity GitIgnore Template](https://github.com/github/gitignore/blob/main/Unity.gitignore)
+
+#### IDE / Tools
+
+* [VSCode](https://code.visualstudio.com/download)
+* [Visual Studio Community 2022](https://visualstudio.microsoft.com/downloads/)
+* For Personal Windows PC: [Enable Long File Paths](https://www.autodesk.com/support/technical/article/caas/sfdcarticles/sfdcarticles/The-Windows-10-default-path-length-limitation-MAX-PATH-is-256-characters.html)
 
 #### Content Creation Software
 
@@ -43,6 +49,7 @@ Below will be an evolving list of links for various mobile/PC based applications
 * [Luma AI](https://lumalabs.ai/) can upload videos to their site and get 3D surface models, use your mobile phone to capture items/objects, similar to reality scan but uses a slightly different approach to capturing your item
 * [Unity AR Companion App](https://blog.unity.com/technology/the-ar-companion-app-is-now-available) Unity provides an AR tool that lets you capture content - works on both Android and iOS devices.
 * [Meshroom](https://alicevision.org/#meshroom) little more advanced PC software that is open source and free - creates impressive point cloud data files from multiple sensors/devices and reconstructs a surface mesh. Don't need a high end GPU - but you're going to want to use one. Supported on Windows/Linux
+* [Move.AI](https://www.move.ai/) has a free/limited version. Be aware of these sorts of companies as this is where motion capture is going - *any native crappy video camera* will be able to work.
 
 ### Class PlayList
 
