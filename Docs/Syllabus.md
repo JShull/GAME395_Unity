@@ -226,7 +226,8 @@ In order to be eligible to pass this course with a **'C'** you *must* complete a
 An **A** in this class requires you to go beyond the normal expected allotment of time for this class. The typical rule is 2-3 hours per 1 hour of in class time. A 3 credit class then would require about 5-6 hours of additional weekly time spent on a single class. Given that this class is software intensive and we are all coming at it with different backgrounds this is going to range wildly across each individual. To maintain that this class is accessible, but also realistic in your expectations, expect to use my office hours a lot, use me to help with your projects when you're stuck (that's the point of me teaching the class!!), be ready to put additional time after class to fully grasp all that you could do within Unity, expect lots of failures and through those failures I promise you will be rewarded. My main job for you within this advanced agreement is to help limit your focus so you set a good cadence and still maintain realistic hours within the time frame alloted for this class: no one wants to overwork and my theory is overworking is a derivative of bad planning.
 
 * Complete all assignments on your plan
-* Submit all Weekly Exit Tickets
+* Submit 12 Weekly Exit Tickets
+* Complete 8 Weekly Unity Assignments
 * Submit 'mod' Plan
 * Turn in your Final Mod Project Pull Request
 * Your experience compiles and runs on device with no major issues.
@@ -239,8 +240,9 @@ An **A** in this class requires you to go beyond the normal expected allotment o
 
 A **B** in this class is easy to get. Show up, use the lab time wisely, make sure to hit all of the low-stake assignments, the Experience Design Document & Project Plan, and most of you should be okay. I hope that this also then encourages you to push for that next level contract as a 'B' in this class is BASIC AF and you all are better than that!
 
-* Complete all Required Stake assignments
+* Complete all assignments on your plan
 * Submit 8 Weekly Exit Tickets
+* Complete 6 Weekly Unity Assignments
 * Submit 'mod' Plan
 * Turn in your Final Project Pull Request
 * Your experience compiles and runs on device
@@ -253,8 +255,9 @@ A **B** in this class is easy to get. Show up, use the lab time wisely, make sur
 A **C** in this class requires you to plan, use Unity Learn, and layout your plan and then failing on your plan, dropping off the face of the earth and/or just ghosting all of us. Is this an ideal way of taking any class you're paying for? **NOPE**. This is here as a catch-all that I wish I had as I was figuring out my life 20 years ago. I will not allow anyone to actually agree to this agreement, but it's here for those 'life happens' moments. The entire class is designed around you wanting to learn and putting in the time. You are "buying your time" is the best way to think of this class and this agreement is for when *'Sh$$' happens'* and you make some attempt to communicate that with me so I can help you prepare for the *crud*.
 
 * Complete a majority of required stake assignments
-  * Complete the Experience Design Document & Project Plan
+  * Complete the Initial Project Design Document & Project Plan
 * Submit 5 Weekly Exit Tickets
+* Complete 4 Weekly Unity Assignments
 * Turn in your Final Project Pull Request
 * Show up to the Final Exam and provide a presentation on failures and lessons learned
 * Show up prepared for one conference with me
