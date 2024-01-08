@@ -2,7 +2,7 @@
 
 # Schedule
 
-![Image](./Images/PorcupineLoot-01.png)
+![Image](./Images/GiraffeLoot-01.png)
 
 ## January 8 & 10 Week1 : Introductions
 
