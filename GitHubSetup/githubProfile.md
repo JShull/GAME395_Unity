@@ -45,7 +45,7 @@ In class we started from the local machine, created a local repository, added a 
 - 5.) In VSCode I clicked the 'New File Icon' and named it 'readme.md'
   - ![new file Icon](newFileVSCode.png)
   - In this new file I put a few things following the [markdown guide](https://www.markdownguide.org/) and saved it.
-- 6.) I then opened up GitHub Desktop on my computer and now want to reference the work we just did by 'adding an existing repository'
+- 6.) I then opened up GitHub Desktop on my computer and now want to reference the work we just did by 'adding an existing repository' because up until this point GitHub desktop doesn't *know* about this local repository (yet)
   - ![GitHub Add Local Repository](githubDesktopAddLocal.png)
   - ![GitHub Add Local Repository 2nd Step](githubDesktopAddLocalStepTwo.png)
 - 7.) At this point GitHub now should be showing you your repository and you might have some changes that still need to be 'committed' go ahead and do that now and then publish it.
