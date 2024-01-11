@@ -14,7 +14,7 @@ Now how you do that above is really up to you.
 
 ## The GitHub Way
 
-If you follow the [GitHub documentation](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme), they have 7 steps, and it's all done via GitHub and their interface and is pretty straight forward. 
+If you follow the online [GitHub documentation](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme), they have 7 steps, and it's all done online via GitHub.com through their interface and is the easiest way to do this without needing to have any software installed as it's all 'on the web'. 
 
 ## How we did this in class
 
