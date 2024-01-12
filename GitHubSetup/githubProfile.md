@@ -54,3 +54,17 @@ In class we started from the local machine, created a local repository, added a 
   - ![GitHub Commit](gitHubCommit.png)
   - When you publish it, make sure you select where you want to publish it - in our case we want it to be public and this is where **very importantly** you name the repository your handle name.
   - ![GitHub Publish](gitHubPublish.png)
+
+***
+
+## Exporting to PDF
+
+If you wanted to export a markdown file to a PDF file you can utilize the VSCode plugin feature to do this. You're going to want to find a [Markdown to pdf plugin like this one.](https://marketplace.visualstudio.com/items?itemName=yzane.markdown-pdf)
+
+- Make sure you're able to install it and confirm that's installed before proceeding - you might need to restart VSCode
+- You then can access the plugin's settings via the plugin icon, and navigate to the 'Markdown to PDF' Plugin
+- ![VSCode Plugin Step 1 after install](./VSCodePluginStep1.PNG)
+- From here you can now view the settings for the plugin and/or other options like how to 'export'
+- ![VSCode Plugin Step 2 after you've clicked usage](./VSCodePluginStep2.PNG)
+- Now that you know what the hot keys are 'CTRL+SHIFT+P' you can go back to your markdown document, open the document in VSCode and use the hot key to bring up the plugin options!
+- ![VSCode Plugin Step 3 export!](./VSCodePluginStep3.PNG)
