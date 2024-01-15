@@ -56,6 +56,15 @@ In class we started from the local machine, created a local repository, added a 
   - ![GitHub Publish](gitHubPublish.png)
 
 ***
+<div style="page-break-after: always;"></div>
+
+## Git to GitHub
+
+A quick video after I've already 'git init' via the git bash tool. I'm going to now open that folder in VSCode and create a readme.md file, save it, and then open/add the repository to GitHub. From here I will make a commit and push/publish this. Same as before **very importantly** make sure to name it with GitHub your handle name.
+<video src="vsCode_GitHub.mp4" controls="controls" style="max-width: 1920px;"></video>
+
+***
+<div style="page-break-after: always;"></div>
 
 ## Exporting to PDF
 
