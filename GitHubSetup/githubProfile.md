@@ -77,3 +77,10 @@ If you wanted to export a markdown file to a PDF file you can utilize the VSCode
 - ![VSCode Plugin Step 2 after you've clicked usage](./VSCodePluginStep2.PNG)
 - Now that you know what the hot keys are 'CTRL+SHIFT+P' you can go back to your markdown document, open the document in VSCode and use the hot key to bring up the plugin options!
 - ![VSCode Plugin Step 3 export!](./VSCodePluginStep3.PNG)
+
+## Note
+
+Getting direct clickable links for GitHub can sometimes be a little weird. In most cases if you have a public repository and you provide the link that you see in the browser it will just bring you to the file/page not actually initiate the download. If you want a direct link to immediately download you need to follow this naming convention:
+
+- **https://raw.githubusercontent.com/username/repo-name/branch-name/path/to/file**
+- for example if you wanted to download the video above it would be "https://raw.githubusercontent.com/JShull/GAME395_Unity/main/GitHubSetup/vsCode_GitHub.mp4"
