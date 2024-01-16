@@ -2,7 +2,7 @@
 
 ## Week 2 Part 1
 
-This is part of the Medium Stake Assignments and **to Complete this Assignment** you need to follow the instructions listed below.
+This is part of the Medium Stake Assignments and **to Complete this Assignment** you need to follow the instructions listed below. I am using two paid assets that we shouldn't distribute and/or use outside of this classroom setting. They are both from the AK Studio Art group: [Art Gallery V2](https://assetstore.unity.com/packages/3d/environments/art-gallery-vol-2-230780) and [Art Gallery Museum VR](https://assetstore.unity.com/packages/3d/environments/art-gallery-museum-vr-230478). These have some larger files and thus I will be using [Git LFS](https://git-lfs.com/) for this project setup.
 
 ### Assignment Instructions
 
@@ -11,12 +11,12 @@ By being part of the GitHub Team Under the Game Design Program you can directly 
 1. Using GitHub Desktop: Clone the repository on your computer.
 2. Using GitHub Desktop: Create a new branch from 'developer' and follow naming conventions for your name 'FirstCharacterFirstName'+'_'+'LastNameFull'. For example, mine would look like **'J_Shull'**
 3. Confirm that you have made a new branch and that you see it 'active' in GitHub Desktop. You can close GitHub desktop for the time being.
-4. Using Unity Hub: Locate the Unity project by adding it to the Hub. Open the project in Unity and navigate to the "scene named" and open it up, make a copy and save it.
+4. Using Unity Hub: Locate the Unity project by adding it to the Hub. Open the project in Unity and navigate to the "G395/WK2_PrefabScene.unity" and open it up, make a copy and save it with the same naming conventions.
 
     > because Unity and managing scenes across a git repository can be a bit of a pain in Unity, you need to immediately save this scene with a different name, go to File --> Save As--> 'FirstCharacterFirstName+"_"+FullLastName and save it in the 'Scenes' folder.
 
 5. Confirm that you've saved your scene (look up in the top toolbar to make sure you are in fact in your scene name) and now explore the scene.
-6. You should see a sort of grid layout, find your name in the grid and pay attention to the coordinate information next to your name - you're going to need this later. In this region is where you're going to perform the next set of steps.
+6. You should see a simple museum layout, find your name in the museum, you should have a display case and an image. Pay attention to the coordinate information next to your name (you will have two coordinates, one for the display case and one for the image) - you're going to need these later. Make sure only to modify these items.
 7. Login to [Unity](https://unity.com) and navigate to the [Unity Asset Store](https://assetstore.unity.com/). Find a free asset. Go through the 'purchase' of that free asset and using the package manager import that asset into the project. If you have Unity open while you're online at the asset store you will see a prompt to import that into Unity, if not, you can come back to Unity and add the asset via the Package Manager.
 8. Use the area defined for you to your advantage and make sure to import and display whatever asset you found. Note: if you're asset is bright pink it's probably because you found an asset that wasn't **URP** as the project is using the URP graphics pipeline. Please follow these instructions to fix your materials.
 
