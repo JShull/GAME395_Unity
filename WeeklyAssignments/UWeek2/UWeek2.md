@@ -1,4 +1,4 @@
-# Unity Weekly Exit Ticket
+# Unity Weekly Assignment
 
 ## Week 2 Part 1
 
