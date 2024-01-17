@@ -106,6 +106,7 @@ By being part of the GitHub Team Under the Game Design Program you can directly 
 >Unity Pop up for what you're about to Import
 ><Image><img src="ConfirmImport.PNG" class="centerlrg"/></Image>
 >Locate it in the Project Hierarchy Tab
+>
 ><Image><img src="AssetInProject.PNG" class="centerlrg"/></Image>
 
 <div style="page-break-after: always;"></div>
