@@ -56,3 +56,4 @@ Below will be an evolving list of links for various mobile/PC based applications
 
 * [Student Fall 2022 Music PlayList](https://music.apple.com/us/playlist/game-395-23699/pl.u-xlyNEdNCDpkae)
 * [Student Spring 2023 Music PlayList](https://music.apple.com/us/playlist/game395-odu-33915/pl.u-KVXBk1vFRmZPd)
+* [Student Spring 2024 Music PlayList](https://music.apple.com/us/playlist/game395-odu-31608/pl.u-oZyl32Zul0R7D)
