@@ -13,3 +13,11 @@ This book I will be pulling from for Software Program Design Patterns. The autho
 ## Level Design
 
 I am currently going through and evaluating *A Practical Guide to Level Design* this book for the 2024-2025 year as a reference. The author, Benjamin Bauer and how it's published means ODU students/faculty can access a digital version of it for free. You can get a copy of this from [ODU Library as a eBook with digital download](https://odu-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=01ODU_ALMA51429190880003186&context=L&vid=01ODU_NUI&lang=en_US&search_scope=Books&adaptor=Local%20Search%20Engine&tab=books&query=any,contains,A%20Practical%20Guide%20to%20Level%20Design:%20From%20Theory%20to%20Practice%20%20Diplomacy%20and%20Production%20&mode=basic). You can also [purchase it via Amazon](https://www.amazon.com/Practical-Guide-Level-Design-Production-ebook/dp/B0BRYN19G9). I think one approach to getting into game engine software is to come at it from the Level Designers perspective. This book does a great job getting the initial concepts explained and then spends a lot of time in various elements and practices of 'good level design' and doesn't shy away from the fact that level designing as a profession requires a wide range of expert knowledge in just about everything.
+
+## Unity Resources
+
+These resources below are directly from Unity Technologies in some form or fashion. Unity has a seres of [Unity Resources](https://unity.com/resources) that I would encourage everyone to poke around with.
+
+### Level up your Code with Game Programming Patterns
+
+I am using the Unity 2021 LTS edition of this book to cover over a few programming patterns in class. The book can be originally found [through the Unity Resources](https://unity.com/resources/level-up-your-code-with-game-programming-patterns?ungated=true) and I'm hosting it here under the same license that Unity has for the book.
