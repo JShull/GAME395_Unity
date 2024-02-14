@@ -30,12 +30,12 @@ Continuation of Observer/Humble, I/O, Unity Raycasts, Custom Unity Packages, and
 
 ## February 19 & 21 Week7 : Pitch.High Level
 
-**Project plans are due**
-Continuation of Custom Unity Packages, OpenUPM, & Mobile Deployment Models. Content Delivery Services. User Interface, Prefabs, and Saving Player Data.
+Custom Unity Packages & Mobile Deployment Models. Content Delivery Services. Canvas: User Interface, Unity UI Toolkit, and Saving Player Data.
 
 ## February 26 & 28 Week8 : Pre-Production.Document
 
-Prefab workflow continuation and Introduction to Asset Bundles. Quick class mod challenge.
+**Project plans are due**
+Prefab workflow continuation and Introduction to Asset Bundles.
 
 ## March 4 & 6 Week9 (SPRING BREAK) : Pre-Production
 
@@ -43,23 +43,23 @@ NOTHING!
 
 ## March 11 & 13 Week10 : Production.Skeleton
 
-Field Trip: Motion capture at VMASC. Dip into Unity Animation Rigging [2D](https://learn.unity.com/tutorial/rigging-a-sprite-with-the-2d-animation-package#6017535aedbc2a69ae9b3b9e) & [3D](https://learn.unity.com/tutorial/working-with-animation-rigging)
+AAA Industry Expert Visit Q&A, Project planning second phase of the semester
 
 ## March 18 & 20 Week11 : Production.Skeleton
 
-PolyBrush and ProBuilder. Level Design continuation.
+Field Trip: Motion capture at VMASC. Dip into Unity Animation Rigging [2D](https://learn.unity.com/tutorial/rigging-a-sprite-with-the-2d-animation-package#6017535aedbc2a69ae9b3b9e) & [3D](https://learn.unity.com/tutorial/working-with-animation-rigging)
 
 ## March 25 & 27 Week12 : Production.First-Intention-Pass
 
-Level Design work and Terrain Editor.
+PolyBrush and ProBuilder. Level Design continuation.
 
 ## April 1 & 3 Week13 : Production.Alpha
 
-Flex Week - cover anything that fell off and work towards final project completion
+2D Mod Example Recap
 
 ## April 8 & 10 Week14 : Production.Alpha
 
-Flex Week - cover anything that fell off and work towards final project completion
+3D Mod Example Recap
 
 ## April 15 & 17 Week15 : Production.Beta
 
