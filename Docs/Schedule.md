@@ -47,11 +47,13 @@ AAA Industry Expert Visit Q&A, Project planning second phase of the semester
 
 ## March 18 & 20 Week11 : Production.Skeleton
 
-Field Trip: Motion capture at VMASC. Dip into Unity Animation Rigging [2D](https://learn.unity.com/tutorial/rigging-a-sprite-with-the-2d-animation-package#6017535aedbc2a69ae9b3b9e) & [3D](https://learn.unity.com/tutorial/working-with-animation-rigging)
+PolyBrush and ProBuilder. Level Design continuation.
 
 ## March 25 & 27 Week12 : Production.First-Intention-Pass
 
-PolyBrush and ProBuilder. Level Design continuation.
+* Dip into Unity Animation Rigging [2D](https://learn.unity.com/tutorial/rigging-a-sprite-with-the-2d-animation-package#6017535aedbc2a69ae9b3b9e) & [3D](https://learn.unity.com/tutorial/working-with-animation-rigging)
+
+Field Trip: Motion capture at VMASC 3-27: 2-4pm.
 
 ## April 1 & 3 Week13 : Production.Alpha
 
