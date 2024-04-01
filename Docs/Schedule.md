@@ -51,13 +51,13 @@ PolyBrush and ProBuilder. Level Design continuation.
 
 ## March 25 & 27 Week12 : Production.First-Intention-Pass
 
-* Dip into Unity Animation Rigging [2D](https://learn.unity.com/tutorial/rigging-a-sprite-with-the-2d-animation-package#6017535aedbc2a69ae9b3b9e) & [3D](https://learn.unity.com/tutorial/working-with-animation-rigging)
+* NavMesh with 3D Use Cases
 
 Field Trip: Motion capture at VMASC 3-27: 2-4pm.
 
 ## April 1 & 3 Week13 : Production.Alpha
 
-2D Mod Example Recap
+2D Mod Example Recap: A* PathFinding Example
 
 ## April 8 & 10 Week14 : Production.Alpha
 
