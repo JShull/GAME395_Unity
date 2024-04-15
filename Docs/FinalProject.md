@@ -20,7 +20,7 @@ Below is how your project should be formatted within the repository folder struc
     │   ├── GDD
     │   ├── Images
     │   ├── PulseChecks
-    |   └── UnityCerts
+    |   └── ClassPlanning.md
     ├── ProjectProposal
     │   └── 'Name'_Proposal.md
     ├── FinalProjectSub
@@ -45,15 +45,11 @@ Below is how your project should be formatted within the repository folder struc
 
 ## ChangeLog
 
-If you're doing a changelog - which most of you are, make sure you pick a standard and document your choice. For example, most of you are using: [Keep a changelog](https://keepachangelog.com/en/1.0.0/). In your changelog folder, just have your markdown file that contains your changelog information and include a simple readme.md that just explains what's in this folder 'This folder contains a changelog.md file based on <whatever standard>'.
+If you're doing a changelog, make sure you pick a standard and document your choice. For example, most of you are using: [Keep a changelog](https://keepachangelog.com/en/1.0.0/). In your changelog folder, just have your markdown file that contains your changelog information and include a simple readme.md that just explains what's in this folder 'This folder contains a changelog.md file based on <whatever standard>'.
 
 ## PulseCheck Completion
 
 As I have eluded too a lot during the semester - the Pulse Check document was an original agreement template that we've now modified and adjusted for each individual person and your bigger project submission included references to this document. At this point this document has probably been modified a few different times over various commits and/or submissions. At this point you're now finalizing this document. Anything that you didn't feel that you did/understood and/or have no clue why it's here shouldn't be checked off but left unchecked. I am then assuming those items that you have left unchecked will have a 'ContractUpdate' to them. Those updates will be included in your FinalProjectSub folder.
-
-## UnityCerts
-
-If you made significant progress on your Unity Learn and you feel more confident in that you could go after a Unity certification, use this folder to include a markdown file explaining your progress and what's left for you to complete before you go take the certification. This is not a hard requirement - only if you feel that you made *significant* progress and you see this as something you want to do in 2023.
 
 ## FinalProjectSub
 
