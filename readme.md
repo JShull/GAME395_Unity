@@ -68,6 +68,15 @@ Below are added links for learning pathways via Unity. Unity has drastically exp
 * 10 weeks: [Unity Creative Core General Pathway](https://learn.unity.com/pathway/creative-core)
 * 12 weeks: [Unity Junior Programmer](https://learn.unity.com/pathway/junior-programmer)
 
+#### Unity Teach Content
+
+* This is a LMS Import setting for 10 unit course based on a [Common Cartridge](./UnityEssentials/UCA-game-dev-common-cartridge.zip) file Unity has provided to all Unity Educators. 
+  * This was part of the Tutorial for [Week 2 in the Unity Teach Training and can be found via Unity Learn](https://learn.unity.com/pd-course/teach-unity/29/tutorial/prepare-your-content-for-delivery#68432b51edbc2a11f0f7d515)
+  * [Unity Upload LMS Instructions](./UnityEssentials/Course%20Upload%20Instructions.pdf)
+* [Unity Version Control Flowchart](./UnityEssentials/Version%20Control%20Flowchart.jpg) Decision Chart
+* [Unity Differentiated Pacing Case Studies](./UnityEssentials/Differentiated%20Pacing%20Case%20Studies.pdf)
+* [Unity Rubrics](./UnityEssentials/Rubrics/) provided via the Week 3 Teach Learning Pathway
+
 ### Class PlayList
 
 * [Student Fall 2022 Music PlayList](https://music.apple.com/us/playlist/game-395-23699/pl.u-xlyNEdNCDpkae)
