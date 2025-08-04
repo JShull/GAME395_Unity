@@ -2,7 +2,7 @@
 
 # Game 395 Unity3D and Software Development
 
-If you have any questions please reach me on [ODU Microsoft Teams](https://teams.microsoft.com/l/chat/0/0?users=jshull@odu.edu) and you can schedule time via my office hours through [ODU's Microsoft Booking](https://outlook.office.com/bookwithme/user/a264cdcc1bda4ce4884e4b052b89bdc3@odu.edu/meetingtype/RDiapeLfhkq1XJ5topb6_g2?anonymous) just make sure to select the option for the Game Design Class.
+If you have any questions please reach me on ~~[ODU Microsoft Teams](https://teams.microsoft.com/l/chat/0/0?users=jshull@odu.edu)~~ and you can schedule time via my office hours through ~~[ODU's Microsoft Booking](https://outlook.office.com/bookwithme/user/a264cdcc1bda4ce4884e4b052b89bdc3@odu.edu/meetingtype/RDiapeLfhkq1XJ5topb6_g2?anonymous)~~ just make sure to select the option for the Game Design Class.
 
 ## Course Description
 
@@ -15,6 +15,7 @@ GAME 395: Designing and Developing with the Unity Engine or as **[Dr. Moberly](h
 * [Canvas](https://canvas.odu.edu/courses/154469)
 * [Video About Me](https://youtu.be/F-wHUHyhsLw)
 * [MarkdownGuide.org](https://www.markdownguide.org/)
+* [Unity Scene Navigation Cheat Sheet](./UnityEssentials/_Shortcuts-Cheat_Sheet.txt)
 
 ### Software Links
 
@@ -51,6 +52,21 @@ Below will be an evolving list of links for various mobile/PC based applications
 * [Unity AR Companion App](https://blog.unity.com/technology/the-ar-companion-app-is-now-available) Unity provides an AR tool that lets you capture content - works on both Android and iOS devices.
 * [Meshroom](https://alicevision.org/#meshroom) little more advanced PC software that is open source and free - creates impressive point cloud data files from multiple sensors/devices and reconstructs a surface mesh. Don't need a high end GPU - but you're going to want to use one. Supported on Windows/Linux
 * [Move.AI](https://www.move.ai/) has a free/limited version. Be aware of these sorts of companies as this is where motion capture is going - *any native crappy video camera* will be able to work.
+
+### Unity 6 Updated Links
+
+Below are added links for learning pathways via Unity. Unity has drastically expanded their learn content over the last 2 years to be updated and robust alongside their updated Unity 6 engine. In some cases there are still legacy Unity Learn content but for the most part, the fundamental pieces of Unity Learn have been updated. This is a list of said updated Learn links that I've come across recently (Summer 2025)
+
+* 2hour 15 minutes[Unity Essentials Pathway: Editor Essentials](https://learn.unity.com/pathway/unity-essentials/unit/editor-essentials?version=6.0)
+  * [CSV Exported Content](./UnityEssentials/UL_Unity_Essentials_6_0.csv)
+    * [Mission 1: Editor Essentials](https://learn.unity.com/tutorial/66f2e7e9edbc2a01255f7970?utm_campaign=082025_fe12ebbc-a5d3-4d6b-8df7-3f0ba24911d5&utm_medium=LMS&utm_source=outline&version=6.0)
+    * [Mission 2: 3D Essentials](https://learn.unity.com/tutorial/66436805edbc2a14bb979ed8?utm_campaign=082025_fe12ebbc-a5d3-4d6b-8df7-3f0ba24911d5&utm_medium=LMS&utm_source=outline&version=6.0)
+    * [Mission 3: Audio Essentials](https://learn.unity.com/tutorial/6699eaa4edbc2a0f30162b3e?utm_campaign=082025_fe12ebbc-a5d3-4d6b-8df7-3f0ba24911d5&utm_medium=LMS&utm_source=outline&version=6.0)
+    * [Mission 4: Programming Essentials](https://learn.unity.com/tutorial/6699f6f6edbc2a0fecfe98fd?utm_campaign=082025_fe12ebbc-a5d3-4d6b-8df7-3f0ba24911d5&utm_medium=LMS&utm_source=outline&version=6.0)
+    * [Mission 5: 2D Essentials](https://learn.unity.com/tutorial/669a09c3edbc2a108606469a?utm_campaign=082025_fe12ebbc-a5d3-4d6b-8df7-3f0ba24911d5&utm_medium=LMS&utm_source=outline&version=6.0)
+    * [Mission 6: Publishing Essentials](https://learn.unity.com/tutorial/669a0e92edbc2a1087c9ba97?utm_campaign=082025_fe12ebbc-a5d3-4d6b-8df7-3f0ba24911d5&utm_medium=LMS&utm_source=outline&version=6.0)
+* 10 weeks: [Unity Creative Core General Pathway](https://learn.unity.com/pathway/creative-core)
+* 12 weeks: [Unity Junior Programmer](https://learn.unity.com/pathway/junior-programmer)
 
 ### Class PlayList
 
